@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.mcktv" name="mcktv Wizard" version="1.0.4" provider-name="LWatterson">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">mcktv Wizard</summary>
+    <description lang="en">Easy Install With KODI / XBMC Wizard / ##CREDIT TO LEE @ COMMUNITY BUILDS FOR WRITING THE FORCE CLOSE FUNCTION AND ANY OTHER DEVS WHO CREATED ANY MODULES USED##
+##Credit To Husham##</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.mcktvnx" name="mcktv noxxx Wizard" version="1.0.4" provider-name="LWatterson">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">mcktv Wizard</summary>
+    <description lang="en">Easy Install With KODI / XBMC Wizard / ##CREDIT TO LEE @ COMMUNITY BUILDS FOR WRITING THE FORCE CLOSE FUNCTION AND ANY OTHER DEVS WHO CREATED ANY MODULES USED##
+##Credit To Husham##</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="service.mcktvupdate" name="mcktv Service Update" version="1.0" provider-name="mcktv">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">MckTV Build Update</summary>
+    <description lang="en">MckTV Build Service Update</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>
