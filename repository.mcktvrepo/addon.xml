@@ -6,8 +6,8 @@
 		<datadir zip="true">https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Mucky Ducks Repo</summary>
-		<description>Download And Install Addons Developed By Mucky Duck And Various Other Developers </description>
+		<summary>MckTV Repo</summary>
+		<description>Download And Install Builds From MckTV</description>
 		<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
 		<platform>all</platform>
 	</extension>
