@@ -30,11 +30,11 @@
   </extension>
 </addon>
 
-<addon id="repository.mcktvrepo" name="MckTV Repo" version="1.0.1" provider-name="MckTV">
+<addon id="repository.mcktvrepo" name="MckTV Repo" version="1.0" provider-name="MckTV">
 	<extension point="xbmc.addon.repository" name="MckTV Repo">
 		<info compressed="false">https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master</datadir>
+		<datadir zip="true">https://github.com/mcktvkodi/mcktvrepo.git</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>MckTV Repo</summary>
