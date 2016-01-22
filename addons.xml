@@ -32,9 +32,9 @@
 
 <addon id="repository.mcktvrepo" name="mcktv repo" version="1.0" provider-name="mcktvkodi">
 	<extension point="xbmc.addon.repository" name="mcktvrepo">
-		<info compressed="false">https://github.com/mcktvkodi/mcktvrepo/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/mcktvkodi/mcktvrepo/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>MckTV Repo</summary>
