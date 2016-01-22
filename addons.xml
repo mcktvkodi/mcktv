@@ -44,7 +44,7 @@
 	</extension>
 </addon>
 
-<addon id="service.mcktvupdate" name="mcktv Service Update" version="1.0" provider-name="mcktv">
+<addon id="service.mcktvupdate" name="mcktv Service Update" version="1.0.1" provider-name="mcktv">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
