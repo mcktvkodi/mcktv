@@ -43,16 +43,4 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-
-<addon id="service.mcktvupdate" name="MckTV" version="2.1.8" provider-name="mcktv">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.service" library="service.py" start="startup" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">MckTV Build ~Update</summary>
-    <description lang="en">MckTV Service Update</description>
-    <platform>all</platform>
-  </extension>
-</addon>
 </addons>
