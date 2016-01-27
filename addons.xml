@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.mcktv" name="mcktv Wizard" version="1.0.5" provider-name="MckTV">
+<addon id="plugin.video.mcktv" name="mcktv Wizard" version="1.0.6" provider-name="MckTV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -44,7 +44,7 @@
 	</extension>
 </addon>
 
-<addon id="service.mcktvupdate" name="mcktv Service Update" version="2.1.8" provider-name="mcktv">
+<addon id="service.mcktvupdate" name="mcktv Service Update" version="2.1.9" provider-name="mcktv">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
