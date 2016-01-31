@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="plugin.video.ArCoIPTV"
+       name="ArCoIPTV"
+       version="Version 2.1.2"
+       provider-name="Archivo Colectivo">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Name of addon</summary>
+    <description>
+- ArCo IPTV - Actualizado 01/2016
+- Para más información visita archivocolectivo.com
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.mcktv" name="mcktv Wizard" version="1.0.6" provider-name="MckTV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
