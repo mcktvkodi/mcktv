@@ -76,7 +76,7 @@
   </extension>
 </addon>
 
-<addon id="service.mcktvupdatenx" name="mcktv no xxx Service Update" version="2.1.8" provider-name="mcktv">
+<addon id="service.mcktvupdatenx" name="mcktv no xxx Service Update" version="2.1.9" provider-name="mcktv">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
