@@ -30,24 +30,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.mcktvtest" name="mcktv wizard" version="0.1.0" provider-name="mcktv">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-		<summary lang="en">MckTV Wizard</summary>
-		<description lang="en">MckTV build install wizard</description>
-		<disclaimer lang="en">Sports, TV , Movies and lots more</disclaimer>
-		<forum>http://mcktv.co.uk</forum>
-		<source>http://mcktv.co.uk</source>
-		<website>http://mcktv.co.uk</website>
-		<platform>all</platform>
-	</extension>
-</addon>
-
 <addon id="repository.mcktvrepo" name="mcktv repo" version="1.0" provider-name="mcktvkodi">
 	<extension point="xbmc.addon.repository" name="mcktvrepo">
 		<info compressed="false">https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/addons.xml</info>
@@ -60,29 +42,5 @@
 		<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
 		<platform>all</platform>
 	</extension>
-</addon>
-
-<addon id="service.mcktvupdate" name="mcktv Service Update" version="2.1.9" provider-name="mcktv">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.service" library="service.py" start="startup" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">MckTV Build Update</summary>
-    <description lang="en">MckTV Build Service Update</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="service.mcktvupdatenx" name="mcktv no xxx Service Update" version="2.1.9" provider-name="mcktv">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.service" library="service.py" start="startup" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">MckTV No XXX Build Update</summary>
-    <description lang="en">MckTV Build Service Update</description>
-    <platform>all</platform>
-  </extension>
 </addon>
 </addons>
