@@ -139,11 +139,9 @@
 
 <item>
 <title>FOX SPORTS 2 USA - Link 2</title>
-<link>plugin://plugin.video.f4mTester/?url=https://video01-lon.streamup.com/app/max12a105s-stream/playlist.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.14.11:12000/live/3Hw7t8BBaFLHaKjb/Vq8jDb9mybVmPzt7/1155.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
-
-
 
 <item>
 <title>NBC GOLF USA</title>
