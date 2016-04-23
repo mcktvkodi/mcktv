@@ -2,17 +2,17 @@
 
 <channels>
 <channel>
-<name>Live Sports Channels</name>
+<name>Sports Channels</name>
 <thumbnail>https://pbs.twimg.com/profile_images/676284965/LiveSport-logoNew_400x400.jpg</thumbnail>
-<externallink>https://github.com/mcktvkodi/mcktvrepo/sportschannels.xml</externallink>
+<externallink>c:\sportschannels.xml</externallink>
 <fanart>http://www.elpinorestaurant.com/wp-content/uploads/2015/01/el-pino-restaurant-torrox-live-sports.jpg</fanart>
 <info>Xo1000</info>
 </channel>
 
 <channel>
-<name>PLP</name>
+<name>Live Sports Events</name>
 <thumbnail>https://pbs.twimg.com/profile_images/676284965/LiveSport-logoNew_400x400.jpg</thumbnail>
-<externallink>https://github.com/mcktvkodi/mcktvrepo/plp.xml</externallink>
+<externallink>c:\liveevents.xml</externallink>
 <fanart>http://www.elpinorestaurant.com/wp-content/uploads/2015/01/el-pino-restaurant-torrox-live-sports.jpg</fanart>
 <info>Xo1000</info>
 </channel>
