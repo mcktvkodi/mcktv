@@ -138,6 +138,14 @@
 </item>
 
 <item>
+<title>FOX SPORTS 2 USA - Link 2</title>
+<link>plugin://plugin.video.f4mTester/?url=https://video01-lon.streamup.com/app/max12a105s-stream/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
+</item>
+
+
+
+<item>
 <title>NBC GOLF USA</title>
 <link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
 <thumbnail>http://koaa.images.worldnow.com/images/8009302_G.jpg</thumbnail>
