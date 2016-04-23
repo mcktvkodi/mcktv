@@ -132,14 +132,14 @@
 </item>
 
 <item>
-<title>FOX SPORTS 2 USA - Link 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/645.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>FOX SPORTS 1 USA - Link 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2212.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
 
 <item>
-<title>FOX SPORTS 2 USA - Link 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://triptv2-best.dyndns.tv:8000/live/danieleciuccio/ciucciodaniele/48.ts</link>
+<title>FOX SPORTS 2 USA - Link 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/645.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
 </item>
 
@@ -191,3 +191,19 @@
 <thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
 </item>
 
+<item>
+<title>Fox Sports USA</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/6f/Logo_fox_sports.png/revision/latest?cb=20140414164158</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+<item>
+
+<item>
+<title>Fox Sports 2 USA</title>
+<link>rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/6f/Logo_fox_sports.png/revision/latest?cb=20140414164158</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+</item>
+<item>
