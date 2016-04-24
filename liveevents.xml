@@ -74,6 +74,17 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
+<title>Leicester City v Swansea City - 16:45 - EPL - NBCSN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/467.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>Leicester City v Swansea City - 16:45 - EPL - NBCSN</title>
+<f4m>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
 <title>Leicester City v Swansea City - 16:45 - EPL - PLP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nlds6.cdnak.lon.neulion.com/nlds/coliseum/leicestercity/as/live/leicestercity_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=70ebb41d1a19e8cde04ba63333b400fb.1461511014|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
