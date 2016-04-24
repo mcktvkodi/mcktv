@@ -379,4 +379,12 @@
 </item>
 <item>
 
+<item>
+<title>test</title>
+<link>plugin://plugin.video.f4mTester/?url=http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+<item>
+
 
