@@ -48,12 +48,12 @@
 
 <item>
 <title>Crystal Palace v Watford - 16:00 - FA CUP - BT Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1512.ts</link>
+<link>rtmp://185.63.255.18:80/live playpath=dodhs2j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=dodhs2j&vw=688&vh=387 token=%Zrey(nKa@#Z</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
 <title>Crystal Palace v Watford - 16:00 - FA CUP - BT Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1117.ts</link>
+<link>http://185.59.222.65:8080/Iuyjbmmhhjfdmbt2/index.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
