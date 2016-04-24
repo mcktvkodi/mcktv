@@ -444,12 +444,12 @@
 </item>
 
 <item>
-<title>CTH STADIUM 6</title>
-<link>http://27.254.64.105:1935/mobilelink/cth6.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<title>fox sport 2</title>
+<link>http://27.254.64.105:1935/mobilelink/foxsport2.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
-<page>http://khaozap.com/wp/sport/cth6.php</page>
+<page>http://khaozap.com/wp/sport/foxsport2.php</page>
 <referer>http://khaozap.com</referer>
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
