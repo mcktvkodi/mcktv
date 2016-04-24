@@ -473,7 +473,7 @@
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
-<page>http://seg.sharethis.com/getSegment.php?</page>
+<page>http://soccerinhd.com/hd1.html</page>
 <referer>http://soccerinhd.com</referer>
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
