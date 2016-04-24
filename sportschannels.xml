@@ -466,14 +466,15 @@
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
+
 <item>
-<title>bein sport</title>
+<title>TEST</title>
 <link>http://31.204.128.68/loadbalance/39949724444419791896/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
 <page>http://seg.sharethis.com/getSegment.php?</page>
-<referer>http%3A%2F%2Fsoccerinhd.com%2F%26rnd=1461523001814</referer>
+<referer>http://soccerinhd.com</referer>
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
