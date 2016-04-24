@@ -473,7 +473,7 @@
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
-<page>http://soccerinhd.com/hd1.html</page>
+<page>http://pxstream.tv/embedrouter.php?file=hd1</page>
 <referer>http://soccerinhd.com</referer>
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
