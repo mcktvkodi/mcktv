@@ -508,8 +508,8 @@
 <item>
 
 <item>
-<title>test1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://streams.iptv.zone:80/p/59710/c/40/u/16088/3bhMpAY9dz774wYTJ5Pn1LGRk1K6h3&amp;streamtype=TSDOWNLOADER</link>
+<title>test</title>
+<link>plugin://plugin.video.f4mTester/?url=http://streams.iptv.zone:80/p/59710/c/40/u/16088/3bhMpAY9dz774wYTJ5Pn1LGRk1K6h</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <info></info>
 </item>
