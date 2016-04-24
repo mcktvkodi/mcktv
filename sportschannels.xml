@@ -12,6 +12,31 @@
 </item>
 
 <item>
+<title>SKY SPORTS 1 UK - Link 3[/COLOR] </title>
+<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp1.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SKY SPORTS 1 UK - Link 4</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8</link>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SKY SPORTS 1 UK - Link 5</title>
+<link>rtmp://185.63.255.60:80/live playpath=swqhs1a swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=swqhs1a&vw=688&vh=387 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
 <title>SKY SPORTS 2 UK - Link 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/25.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
@@ -22,6 +47,23 @@
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/736.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+
+<item>
+<title>SKY SPORTS 2 UK - Link 3</title>
+<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp2.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
+<thumbnail>http://4.bp.blogspot.com/-nIM_Jms1VrQ/VAW7n2UL_CI/AAAAAAAAFVQ/BFORITLxMfc/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SKY SPORTS 2 UK - Link 4</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted</link>
+<thumbnail>http://4.bp.blogspot.com/-nIM_Jms1VrQ/VAW7n2UL_CI/AAAAAAAAFVQ/BFORITLxMfc/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+
 
 <item>
 <title>SKY SPORTS 3 UK - Link 1</title>
@@ -36,6 +78,23 @@
 </item>
 
 <item>
+<title>SKY SPORTS 3 UK - Link 3</title>
+<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp3.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SKY SPORTS 3 UK - Link 4</title>
+<link>http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8?token=3uvk_1xf83</link>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
 <title>SKY SPORTS 4 UK - Link 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/27.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
@@ -45,6 +104,23 @@
 <title>SKY SPORTS 4 UK - Link 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/738.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+
+<item>
+<title>SKY SPORTS 4 UK - Link 3</title>
+<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp4.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SKY SPORTS 4 UK - Link 4</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
 </item>
 
 <item>
@@ -58,6 +134,23 @@
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/739.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+
+<item>
+<title>SKY SPORTS 5 UK - Link 3</title>
+<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp5.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
+<thumbnail>http://www.creativeworldtrade.com/CWT%2036%20Sports%20TVs%20Channel%20Live/CWT's%20Sky%20Sports%205%20TV%20Channel%20Logos/CWT's%20Sky%20Sports%205%20TV%20Channel%20Logo1.jpg</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SKY SPORTS 5 UK - Link 4</title>
+<link>http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8?token=3uvk_1xf83</link>
+<thumbnail>http://www.creativeworldtrade.com/CWT%2036%20Sports%20TVs%20Channel%20Live/CWT's%20Sky%20Sports%205%20TV%20Channel%20Logos/CWT's%20Sky%20Sports%205%20TV%20Channel%20Logo1.jpg</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+
 
 <item>
 <title>SKY SPORTS F1 UK - Link 1</title>
@@ -101,6 +194,24 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
+
+<item>
+<title>BT SPORT 1 - Link 3</title>
+<link>rtmp://185.63.255.60:80/live playpath=wodhs1j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=wodhs1j&vw=736&vh=438  token=%Zrey(nKa@#Z</link>
+<thumbnail>http://i.dailymail.co.uk/i/pix/2013/04/26/article-2315191-197F4877000005DC-125_306x71.jpg</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>BT SPORT 1 - Link 4</title>
+<link>http://185.59.222.65:8080/Iuyjbmmhhjfdmbt1/index.m3u8</link>
+<thumbnail>http://i.dailymail.co.uk/i/pix/2013/04/26/article-2315191-197F4877000005DC-125_306x71.jpg</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+
+
 <item>
 <title>BT SPORT 2 - Link 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1512.ts</link>
@@ -111,6 +222,23 @@
 <title>BT SPORT 2 - Link 2</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1117.ts</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 2 - Link 3</title>
+<link>rtmp://185.63.255.18:80/live playpath=dodhs2j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=dodhs2j&vw=688&vh=387 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://i.dailymail.co.uk/i/pix/2013/04/26/article-2315191-197F4877000005DC-125_306x71.jpg</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+<item>
+
+<item>
+<title>BT SPORTS 2 - Link 4</title>
+<link>http://185.59.222.65:8080/Iuyjbmmhhjfdmbt2/index.m3u8</link>
+<thumbnail>http://i.dailymail.co.uk/i/pix/2013/04/26/article-2315191-197F4877000005DC-125_306x71.jpg</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
 </item>
 
 <item>
@@ -209,8 +337,16 @@
 <item>
 
 <item>
-<title>BT Sport 2 [COLOR blue] UK [/COLOR] </title>
-<link>rtmp://185.63.255.18:80/live playpath=dodhs2j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=dodhs2j&vw=688&vh=387 token=%Zrey(nKa@#Z</link>
+<title>PREMIER SPORTS</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv30_xdjbv8no</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/83/Premier_Sports_logo.png</thumbnail>
+<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>BT Sport Europe</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x</link>
 <thumbnail>http://i.dailymail.co.uk/i/pix/2013/04/26/article-2315191-197F4877000005DC-125_306x71.jpg</thumbnail>
 <fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
 <info></info>
@@ -218,113 +354,21 @@
 <item>
 
 <item>
-<title>BT Sport 2 [COLOR blue] UK [/COLOR] </title>
-<link>http://185.59.222.65:8080/Iuyjbmmhhjfdmbt2/index.m3u8</link>
+<title>BT Sport Europe</title>
+<link>http://185.59.222.65:8080/Iuyjbmmhhjfdmbteuro/index.m3u8</link>
 <thumbnail>http://i.dailymail.co.uk/i/pix/2013/04/26/article-2315191-197F4877000005DC-125_306x71.jpg</thumbnail>
 <fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
 <info></info>
 </item>
 <item>
 
-
 <item>
-<title>Sky Sports 1 [COLOR blue]  UK [/COLOR] </title>
-<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp1.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
+<title>MUTV</title>
+<link>http://stream.balticbox.tv:8080/MUTV/mono.m3u8?token=asg!1dkhaSG!!54754</link>
+<thumbnail></thumbnail>
 <fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
 <info></info>
 </item>
-
 <item>
-<title>Sky Sports 1 [COLOR blue]  UK [/COLOR] </title>
-<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8</link>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
-<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>Sky Sports 1 [COLOR blue]  UK [/COLOR] </title>
-<link>rtmp://185.63.255.60:80/live playpath=swqhs1a swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=swqhs1a&vw=688&vh=387 token=%Zrey(nKa@#Z</link>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
-<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
-<info></info>
-</item>
-
-
-<item>
-<title>Sky Sports 2 [COLOR blue]  UK [/COLOR] </title>
-<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp2.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
-<thumbnail>http://4.bp.blogspot.com/-nIM_Jms1VrQ/VAW7n2UL_CI/AAAAAAAAFVQ/BFORITLxMfc/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png</thumbnail>
-<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>Sky Sports 2 [COLOR blue]  UK [/COLOR] </title>
-<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted</link>
-<thumbnail>http://4.bp.blogspot.com/-nIM_Jms1VrQ/VAW7n2UL_CI/AAAAAAAAFVQ/BFORITLxMfc/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png</thumbnail>
-<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
-<info></info>
-</item>
-
-
-
-<item>
-<title>Sky Sports 3 [COLOR blue]  UK [/COLOR] </title>
-<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp3.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
-<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>Sky Sports 3 [COLOR blue]  UK [/COLOR] </title>
-<link>http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8?token=3uvk_1xf83</link>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
-<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>Sky Sports 4 [COLOR blue]  UK [/COLOR] </title>
-<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp4.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
-<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
-<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>Sky Sports 4 [COLOR blue]  UK [/COLOR] </title>
-<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk</link>
-<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
-<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
-<info></info>
-</item>
-
-
-<item>
-<title>Sky Sports 5 [COLOR blue]  UK [/COLOR] </title>
-<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp5.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
-<thumbnail>http://www.creativeworldtrade.com/CWT%2036%20Sports%20TVs%20Channel%20Live/CWT's%20Sky%20Sports%205%20TV%20Channel%20Logos/CWT's%20Sky%20Sports%205%20TV%20Channel%20Logo1.jpg</thumbnail>
-<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>Sky Sports 5 [COLOR blue]  UK [/COLOR] </title>
-<link>http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8?token=3uvk_1xf83</link>
-<thumbnail>http://www.creativeworldtrade.com/CWT%2036%20Sports%20TVs%20Channel%20Live/CWT's%20Sky%20Sports%205%20TV%20Channel%20Logos/CWT's%20Sky%20Sports%205%20TV%20Channel%20Logo1.jpg</thumbnail>
-<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>Setanta Ireland</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/adstriani/satlover.com/16.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.creativeworldtrade.com/CWT%2036%20Sports%20TVs%20Channel%20Live/CWT's%20Sky%20Sports%205%20TV%20Channel%20Logos/CWT's%20Sky%20Sports%205%20TV%20Channel%20Logo1.jpg</thumbnail>
-<fanart>http://www.regencyclub.co.uk/images/slideshow/live-sports/the-regency-club-live-sports.jpg</fanart>
-<info></info>
-</item>
 
 
