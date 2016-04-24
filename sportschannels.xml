@@ -527,7 +527,7 @@ c2VydmVyX3RpbWU9NC8yNC8yMDE2IDc6MzQ6MTMgUE0maGFzaF92YWx1ZT1QY25SK1daTFcyMFdLMzFN
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
-<page>http://sports4u.tv/frames/boxnation.php</page>
+<page>http://sports4u.tv/frames/boxnation.php?</page>
 <referer>http://sports4u.tv</referer>
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
