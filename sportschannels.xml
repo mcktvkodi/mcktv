@@ -468,8 +468,8 @@
 </item>
 
 <item>
-<title>TESTm</title>
-<link>http://ORBIT-IPTV.COM:2500/live/meer/meer/2201.ts</link>
+<title>TEST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2201.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
 
