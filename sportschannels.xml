@@ -466,6 +466,18 @@
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
+<item>
+<title>bein sport</title>
+<link>http://31.204.128.68/loadbalance/39949724444419791896/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://seg.sharethis.com/getSegment.php?</page>
+<referer>http%3A%2F%2Fsoccerinhd.com%2F%26rnd=1461523001814</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
+</item>
+
 
 
 <item>
@@ -512,6 +524,6 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <info></info>
 </item>
-
+http://31.204.128.68/loadbalance/39949724444419791896/chunks.m3u8?nimblesessionid=4943312&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE2IDY6MTg6MTAgUE0maGFzaF92YWx1ZT1RYVI1dW9jSnVHV2JXMkVIZXN2VllRPT0mdmFsaWRtaW51dGVzPTE=
 
 
