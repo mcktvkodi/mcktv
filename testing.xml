@@ -34,9 +34,26 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
-<item>
-<title>channel 4v</title>
-<link>http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/35.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Sports NEWS SD</title>
+<link>http://mag.liux.tv:8081/SKYSPNEWS/index.m3u8?token=tXFxykyhFL-jorV0rJLUew&e=1461548552&u=82648&channel=SKYSPNEWS</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+
+<item>
+<title>Sky Sports NEWS HD</title>
+<link>http://streams.iptv.zone:80/p/59710/c/40/u/16088/3bhMpAY9dz774wYTJ5Pn1LGRk1K6h3</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>Sky Sports 1 HD</title>
+<link>http://streams.iptv.zone:80/p/59710/c/39/u/16088/3bhMpAY9dz774wYTJ5Pn1LGRk1K6h3</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>Bt Sport 1 HD</title>
+<link>http://streams.iptv.zone:80/p/59710/c/38/u/16088/3bhMpAY9dz774wYTJ5Pn1LGRk1K6h3</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
 
