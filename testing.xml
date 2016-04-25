@@ -14,7 +14,7 @@
 
 <item>
 <title>SKY SPORTS 1 UK - Link 3</title>
-<link>http://clay24.webhop.net:8000/live/david/david/1.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://clay24.webhop.net:8000/live/david/david/1.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <info></info>
 </item>
