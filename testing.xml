@@ -2,13 +2,13 @@
 
 <item>
 <title>Box Nation</title>
-<f4m>http://stream.balticbox.tv:8080/BOX/mono.m3u8?token=asg!1dkhaSG!!54754</f4m>
+<link>http://stream.balticbox.tv:8080/BOX/mono.m3u8?token=asg!1dkhaSG!!54754</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.balticbox.tv:8080/SKYSPNEWS/mono.m3u8?token=asg!1dkhaSG!!54754</link>
+<link>http://stream.balticbox.tv:8080/SKYSPNEWS/mono.m3u8?token=asg!1dkhaSG!!54754</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
