@@ -28,6 +28,6 @@
 
 <item>
 <title>WWE NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/79.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>http://smashtv.ddns.net:9090/load/38ad309c19cc/79.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
