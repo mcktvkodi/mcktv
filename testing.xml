@@ -35,8 +35,8 @@
 </item>
 
 <item>
-<title>Sky Sports News test</title>
-<link>http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/35.ts</link>
+<title>channel 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/35.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
