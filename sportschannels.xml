@@ -148,29 +148,31 @@
 </item>
 
 <item>
-<title>SKY SPORTS F1 UK - Link 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1206.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>SKY SPORTS F1 - Link 2</title>
+<link>http://stream.balticbox.tv:8080/SkySPf1/mono.m3u8?token=asg!1dkhaSG!!54754</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+
+<item>
+<title>BOX NATION</title>
+<link>http://stream.balticbox.tv:8080/BOX/mono.m3u8?token=asg!1dkhaSG!!54754</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
 <item>
-<title>BOX NATION UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/490.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>EUROSPORTS 1</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv28_lru54uv3</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
 </item>
 
 <item>
-<title>BRITISH EUROSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/541.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>EUROSPORTS 2</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv29_2cmdoz6c</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
 </item>
-
-<item>
-<title>BRITISH EUROSPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/540.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
 <item>
 <title>BT SPORT 1 - Link 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1511.ts</link>
@@ -238,6 +240,23 @@
 </item>
 
 <item>
+<title>BT Sport Europe - Link 3</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+<item>
+
+<item>
+<title>BT Sport Europe - Link 4</title>
+<link>http://185.59.222.65:8080/Iuyjbmmhhjfdmbteuro/index.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+<item>
+
+
+<item>
 <title>FOX SPORTS 1 USA - Link 1</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
@@ -256,7 +275,22 @@
 </item>
 
 <item>
-<title>FOX SPORTS 2 USA - Link 1</title>
+<title>FOX SPORTS 1 USA - Link 4</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+<item>
+
+<item>
+<title>Fox Sports 2 USA - Link 1</title>
+<link>rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+
+<item>
+<title>FOX SPORTS 2 USA - Link 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/645.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
@@ -310,42 +344,11 @@
 </item>
 
 <item>
-<title>Fox Sports USA</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<info></info>
-</item>
-<item>
-
-<item>
-<title>Fox Sports 2 USA</title>
-<link>rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-<item>
-
-<item>
 <title>PREMIER SPORTS</title>
 <link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv30_xdjbv8no</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <info></info>
 </item>
-
-<item>
-<title>BT Sport Europe</title>
-<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<info></info>
-</item>
-<item>
-
-<item>
-<title>BT Sport Europe</title>
-<link>http://185.59.222.65:8080/Iuyjbmmhhjfdmbteuro/index.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<info></info>
-</item>
-<item>
 
 <item>
 <title>CTH STADIUM 1</title>
