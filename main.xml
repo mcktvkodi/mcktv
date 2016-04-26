@@ -3,6 +3,7 @@
 <channels>
 <channel>
 <name>Sports Channels</name>
+<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/sportschannels.xml</externallink>
 <fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/fanart.jpg</fanart>
@@ -11,17 +12,19 @@
 
 <channel>
 <name>Live Sports Events</name>
+<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/liveevents.xml</externallink>
-<fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</fanart>
+<fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/fanart.jpg</fanart>
 <info>MckTV</info>
 </channel>
 
 <channel>
 <name>Test Area</name>
+<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/testing.xml</externallink>
-<fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</fanart>
+<fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/fanart.jpg</fanart>
 <info>MckTV</info>
 </channel>
 
