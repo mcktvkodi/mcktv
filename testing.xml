@@ -19,7 +19,13 @@
 </item>
 <item>
 <title>FS2 test</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/don,t,miss,use/bartdorreboom/2208.ts&amp;streamtype=TSDOWNLOADER</link>
+<f4m>http://bit.ly/1WQ6fEL</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>Bt Sport Europe HD</title>
+<f4m>http://bit.ly/24h8lj6</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
