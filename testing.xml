@@ -34,10 +34,92 @@
 <link>http://streams.iptv.zone:80/p/59710/c/38/u/16088/3bhMpAY9dz774wYTJ5Pn1LGRk1K6h3</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
-http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/611.m3u8
 <item>
 <title>sky sport 1 HD</title>
 <link>http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/610.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+<item>
+<title>FOX Sports 1 HD</title>
+<f4m>http://bit.ly/1NsfEjA</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>NBCSN HD</title>
+<f4m>http://bit.ly/1SpehT5</f4m>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/NBCSN_Logo.png/revision/latest?cb=20130903050718</thumbnail>
+</item>
+<item>
+<title>BT Sports 1 HD</title>
+<f4m>http://bit.ly/1QyMmdA</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 2 HD</title>
+<f4m>http://bit.ly/1qQprWe</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sports Europe HD</title>
+<f4m>http://bit.ly/24h8lj6</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports News HD</title>
+<f4m>http://bit.ly/26fdnhQ</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1 HD</title>
+<f4m>http://bit.ly/1SZyaML</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 HD</title>
+<f4m>http://bit.ly/1Tu8sCB</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3 HD</title>
+<f4m>http://bit.ly/1WecMby</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4 HD</title>
+<f4m>http://bit.ly/1Vx0BI4</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 5 HD</title>
+<f4m>http://bit.ly/1NvLBYk</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports F1 HD</title>
+<f4m>http://bit.ly/21e0vomv</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+
+<item>
+<title>test1</title>
+<f4m>http://bit.ly/1NDkHIK</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>test2</title>
+<f4m>http://bit.ly/1Nx3UfB</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
 
