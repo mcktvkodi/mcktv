@@ -45,8 +45,8 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>Sky Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://37.187.164.175:8080/USA/CAN/312.ch</link>
+<title>Sky Sports</title>
+<link>http://37.187.164.175:8080/USA/CAN/312.ch</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
