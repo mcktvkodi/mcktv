@@ -1,44 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-<title>Tottenham v West Brom - EPL - Sky Sports 1</title>
+<title>Manchester City v Real Madrid - BT Sports Europe</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1513.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>Manchester City v Real Madrid - BT Sports Europe</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>Manchester City v Real Madrid - BT Sports Europe</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/735.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>Tottenham v West Brom - EPL - Sky Sports 1</title>
-<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp1.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
+<title>Manchester City v Real Madrid - FS1</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>Tottenham v West Brom - EPL - Sky Sports 1</title>
-<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8</link>
+<title>Manchester City v Real Madrid - FS1</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
-<item>
-<title>Tottenham v West Brom - EPL - NBCSN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/467.mpegts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-<item>
-<title>Tottenham v West Brom - EPL - NBCSN</title>
-<f4m>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251</f4m>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-<item>
-<title>Tottenham v West Brom - EPL - PLP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nlds2.cdnak.lon.neulion.com/nlds/coliseum/tottenhamhotspur/as/live/tottenhamhotspur_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=509d8f8d5547c20d37c68234d4883c55.1461610614|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-<item>
-<title>Tottenham v West Brom - EPL - PLP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nlds2.cdnak.lon.neulion.com/nlds/coliseum/tottenhamhotspur/as/live/tottenhamhotspur_hd_3000.f4m?nltid=plp&nltdt=6&nltnt=1&h=509d8f8d5547c20d37c68234d4883c55.1461610614|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-<item>
-<title>Tottenham v West Brom - EPL - PLP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nlds2.cdnak.lon.neulion.com/nlds/coliseum/tottenhamhotspur/as/live/tottenhamhotspur_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=509d8f8d5547c20d37c68234d4883c55.1461610614|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
+
 
 
 

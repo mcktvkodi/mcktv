@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<item>
-<title>Box Nation</title>
-<link>http://stream.balticbox.tv:8080/BOX/mono.m3u8?token=asg!1dkhaSG!!54754</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
 
 <item>
 <title>Sky Sports News test</title>
 <link>http://stream.balticbox.tv:8080/SKYSPNEWS/mono.m3u8?token=asg!1dkhaSG!!54754</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>BT Europe</title>
+<link>http://stream.balticbox.tv:8080/BTSpeur/mono.m3u8?token=asg!1dkhaSG!!54754</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
