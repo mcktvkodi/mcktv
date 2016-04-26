@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>SKY SPORTS NEWS - Link 1</title>
+<link>http://stream.balticbox.tv:8080/SKYSPNEWS/mono.m3u8?token=asg!1dkhaSG!!54754</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS NEWS - Link 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/2561.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+
+<title>SKY SPORTS NEWS - Link 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.137:8000/live/karimosSat/karimos/9575.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+
 <item>
 <title>SKY SPORTS 1 UK - Link 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/24.mpegts&amp;streamtype=TSDOWNLOADER</link>
@@ -234,10 +254,11 @@
 </item>
 
 <item>
-<title>BT SPORT EUROPE - Link 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/453.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>BT Europe - Link 2</title>
+<link>http://stream.balticbox.tv:8080/BTSpeur/mono.m3u8?token=asg!1dkhaSG!!54754</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+
 
 <item>
 <title>BT Sport Europe - Link 3</title>
@@ -291,6 +312,12 @@
 <item>
 <title>FOX SPORTS 2 USA - Link 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/645.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS USA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/1070.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
