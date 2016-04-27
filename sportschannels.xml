@@ -523,7 +523,6 @@
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
-
 <item>
 <title>box nation</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
@@ -531,6 +530,19 @@
 <name>get_sxstream</name>
 <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
 <page>http://www.liveonlinetv247.info/embed/boxnation.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
+
+
+<item>
+<title>FS2</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
