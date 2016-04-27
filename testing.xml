@@ -167,20 +167,16 @@
 </item>
 
 <item>
-<title>ekostreams</title>
-<link>https://forums.tvaddons.ag/$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</link>
+<title>TEST | ekostreams.co -fox | m3u8</title>
+<link>$doregex[file]|User-Agent: Mozilla/5.0</link>
 <regex>
-<name>getM3U8</name>
-<expres>source: '(.*?)'</expres>
-<page>http://pxstream.tv/embed.php?file=$doregex[getFileName]&jwplayer=mpegdash</page>
-<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<name>file</name>
+<expres>.{0,6}[',"](.*?=)[',"],</expres>
+<page>http://pxstream.tv/embed.php?file=a19c33a446a662bae-foxsportsvbn&amp;referrer=http://ekostreams.co/ch/foxsports.php??width=600&amp;height=384&amp;width=600&amp;height=384&amp;jwplayer=flash</page>
+<referer>http://ekostreams.co/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
 </regex>
-
-<regex>
-<name>getFileName</name>
-<expres>file='(.*?)'.*width='600</expres>
-<page>http://ekostreams.co/ch/bobo.php?width=600&height=384</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
-</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
+http://pxstream.tv/embed.php?file=a19c33a446a662bae-foxsportsvbn&referrer=http://ekostreams.co/ch/foxsports.php?&width=468&height=386&jwplayer=flash
