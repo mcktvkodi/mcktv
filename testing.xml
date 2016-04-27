@@ -167,35 +167,20 @@
 </item>
 
 <item>
-<title>TEST | ekostreams.co - makelist | m3u8</title>
-<link>$doregex[makelist]</link>
+<title>ekostreams</title>
+<link>https://forums.tvaddons.ag/$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</link>
 <regex>
-<name>makelist</name>
-<listrepeat><[CDATA[
-<title>[makelist.param1]</title>
-<link>$doregex[m3u8]|User-Agent: Mozilla/5.0</link>
-<regex>
-<name>m3u8</name>
-<expres>.{0,6}[',"](.*?=)[',"],</expres>
-<page>http://pxstream.tv/embed.php?file=$doregex[file]&amp;referrer=[makelist.param2]&amp;jwplayer=$doregex[player]</page>
-<referer>http://ekostreams.co/</referer>
+<name>getM3U8</name>
+<expres>source: '(.*?)'</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[getFileName]&jwplayer=mpegdash</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
 </regex>
+
 <regex>
-<name>file</name>
-<expres>f.*?[',"](.*?)[',"];</expres>
-<page>[makelist.param2]</page>
-<referer>http://ekostreams.co/</referer>
-</regex>
-<regex>
-<name>player</name>
-<expres>jwplayer='(.*?)';</expres>
-<page>[makelist.param2]</page>
-<referer>http://ekostreams.co/</referer>
-</regex>
-<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>p\W(.*?) = (http.*)\W\/</expres>
-<page>http://ekostreams.co/</page>
-<cookieJar></cookieJar>
+<name>getFileName</name>
+<expres>file='(.*?)'.*width='600</expres>
+<page>http://ekostreams.co/ch/bobo.php?width=600&height=384</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
 </regex>
 </item>
