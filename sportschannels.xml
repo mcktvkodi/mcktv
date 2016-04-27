@@ -485,7 +485,7 @@
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
-
+http://27.254.64.105:1935/mobilelink/foxsport2.stream/playlist.m3u8?wowzasessionid=1951021603
 <item>
 <title>bein sport</title>
 <link>http://27.254.64.105:1935/mobilelink/skynetsport4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
@@ -497,6 +497,18 @@
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
+<item>
+<title>FS2</title>
+<link>http://27.254.64.105:1935/mobilelink/skynetsport4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/foxsport2.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
+</item>
+http://khaozap.com/wp/sport/foxsport2.php
 
 <item>
 <title>MUTV</title>
@@ -523,6 +535,7 @@
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
+
 <item>
 <title>box nation</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
