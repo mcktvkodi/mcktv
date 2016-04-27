@@ -305,7 +305,7 @@
 <item>
 
 <item>
-<title>Fox Sports 2 USA - Link 1</title>
+<title>FOX SPORTS 2 USA - Link 1</title>
 <link>rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
@@ -316,6 +316,25 @@
 <link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/645.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+
+<item>
+<title>FOX SPORTS 2 USA - Link 3</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
+
+<item>
+<title>FOX SPORTS 2 USA - Link 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/645.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
 
 <item>
 <title>BEIN SPORTS USA</title>
@@ -485,10 +504,10 @@
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
-http://27.254.64.105:1935/mobilelink/foxsport2.stream/playlist.m3u8?wowzasessionid=1951021603
+
 <item>
 <title>bein sport</title>
-<link>http://27.254.64.105:1935/mobilelink/foxsport2.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://27.254.64.105:1935/mobilelink/skynetsport4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -497,18 +516,6 @@ http://27.254.64.105:1935/mobilelink/foxsport2.stream/playlist.m3u8?wowzasession
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
-<item>
-<title>FS2</title>
-<link>http://27.254.64.105:1935/mobilelink/skynetsport4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://khaozap.com/wp/sport/foxsport2.php</page>
-<referer>http://khaozap.com</referer>
-</regex>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
-</item>
-http://khaozap.com/wp/sport/foxsport2.php
 
 <item>
 <title>MUTV</title>
@@ -543,19 +550,6 @@ http://khaozap.com/wp/sport/foxsport2.php
 <name>get_sxstream</name>
 <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
 <page>http://www.liveonlinetv247.info/embed/boxnation.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-</item>
-
-
-<item>
-<title>FS2</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
