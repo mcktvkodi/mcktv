@@ -165,10 +165,37 @@
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
-http://198.255.76.26:420/live/bart/bartpspsps/97.ts
 
 <item>
-<title>SKY SPORTS 3 (P) SD - Link 2 -(Public Link Click Once) </title>
-<link>rtmpe://46.246.124.89:1935/livedge playpath=sskys3  pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
+<title>TEST | ekostreams.co - makelist | m3u8</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>$doregex[m3u8]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>m3u8</name>
+<expres>.{0,6}[',"](.*?=)[',"],</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[file]&amp;referrer=[makelist.param2]&amp;jwplayer=$doregex[player]</page>
+<referer>http://ekostreams.co/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>f.*?[',"](.*?)[',"];</expres>
+<page>[makelist.param2]</page>
+<referer>http://ekostreams.co/</referer>
+</regex>
+<regex>
+<name>player</name>
+<expres>jwplayer='(.*?)';</expres>
+<page>[makelist.param2]</page>
+<referer>http://ekostreams.co/</referer>
+</regex>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>p\W(.*?) = (http.*)\W\/</expres>
+<page>http://ekostreams.co/</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
