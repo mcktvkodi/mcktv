@@ -512,7 +512,7 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>FS2</title>
 <link>http://163.172.150.10:8081/live/foxsports2-hq/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
