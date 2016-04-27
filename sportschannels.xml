@@ -177,9 +177,21 @@
 <item>
 
 <item>
-<title>BOX NATION</title>
+<title>BOX NATION - Link 1</title>
 <link>http://stream.balticbox.tv:8080/BOX/mono.m3u8?token=asg!1dkhaSG!!54754</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>BOX NATION - Link 2</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/boxnation.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
 </item>
 
 <item>
@@ -306,12 +318,19 @@
 
 <item>
 <title>FOX SPORTS 2 USA - Link 1</title>
+<link>rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+
+<item>
+<title>FOX SPORTS 2 USA - Link 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/645.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
 <item>
-<title>FOX SPORTS 2 USA - Link 2</title>
+<title>FOX SPORTS 2 USA - Link 3</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
 <regex>
 <name>get_sxstream</name>
@@ -323,18 +342,10 @@
 </item>
 
 <item>
-<title>FOX SPORTS 2 USA - Link 3</title>
+<title>FOX SPORTS 2 USA - Link 4</title>
 <link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/645.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
-
-<item>
-<title>FOX SPORTS 2 USA - Link 4</title>
-<link>rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-<item>
-
 
 <item>
 <title>BEIN SPORTS USA</title>
@@ -541,16 +552,4 @@
 <referer>http://www.liveonlinetv247.info</referer>
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
-</item>
-
-<item>
-<title>box nation</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/boxnation.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
 </item>
