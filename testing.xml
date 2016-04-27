@@ -121,6 +121,12 @@
 </item>
 
 <item>
+<title>SS1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://clay24.webhop.net:8000/live/mario/mario/8.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
 <title>test1</title>
 <f4m>http://bit.ly/1NDkHIK</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
