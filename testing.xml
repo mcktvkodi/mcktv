@@ -114,7 +114,11 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
-
+<item>
+<title>SS1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://kingwebtv.com:8090/live/essa/essa/2075.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
 
 <item>
 <title>test1</title>
