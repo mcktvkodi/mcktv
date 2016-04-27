@@ -306,19 +306,12 @@
 
 <item>
 <title>FOX SPORTS 2 USA - Link 1</title>
-<link>rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-<item>
-
-<item>
-<title>FOX SPORTS 2 USA - Link 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/645.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
 <item>
-<title>FOX SPORTS 2 USA - Link 3</title>
+<title>FOX SPORTS 2 USA - Link 2</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
 <regex>
 <name>get_sxstream</name>
@@ -330,10 +323,17 @@
 </item>
 
 <item>
-<title>FOX SPORTS 2 USA - Link 4</title>
+<title>FOX SPORTS 2 USA - Link 3</title>
 <link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/645.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+
+<item>
+<title>FOX SPORTS 2 USA - Link 4</title>
+<link>rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
 
 
 <item>
