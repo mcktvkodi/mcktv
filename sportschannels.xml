@@ -523,4 +523,15 @@
 </regex>
 <thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
-c2VydmVyX3RpbWU9NC8yNy8yMDE2IDU6NTc6NDMgQU0maGFzaF92YWx1ZT11alZqc29pUjlXR0JxU2RDd0RYSmFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTY3JnN0cm1fbGVuPTE4
+
+<item>
+<title>box nation</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/boxnation.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
