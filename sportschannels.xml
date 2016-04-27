@@ -177,37 +177,6 @@
 <item>
 
 <item>
-<title>BOX NATION - Link 1</title>
-<link>http://stream.balticbox.tv:8080/BOX/mono.m3u8?token=asg!1dkhaSG!!54754</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>BOX NATION - Link 2</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/boxnation.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-</item>
-
-<item>
-<title>EUROSPORTS 1</title>
-<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv28_lru54uv3</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>EUROSPORTS 2</title>
-<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv29_2cmdoz6c</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<info></info>
-</item>
-<item>
 <title>BT SPORT 1 - Link 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1511.ts</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
@@ -342,15 +311,21 @@
 </item>
 
 <item>
-<title>FOX SPORTS 2 USA - Link 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/645.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>BEIN SPORTS USA - Link 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/1070.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
 <item>
-<title>BEIN SPORTS USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/1070.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<title>BEIN SPORTS USA - Link 2</title>
+<link>http://27.254.64.105:1935/mobilelink/skynetsport4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/beinsport.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
 
 <item>
@@ -369,6 +344,51 @@
 <title>NBCSN - Link 2</title>
 <f4m>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>PREMIER SPORTS</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv30_xdjbv8no</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>SETANTA IRELAND</title>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.balticbox.tv:8080/SETIRL/2016/04/27/15/18/47-10006.ts?token=asg!1dkhaSG!!54754&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>BOX NATION - Link 1</title>
+<link>http://stream.balticbox.tv:8080/BOX/mono.m3u8?token=asg!1dkhaSG!!54754</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>BOX NATION - Link 2</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/boxnation.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
+
+<item>
+<title>EUROSPORTS 1</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv28_lru54uv3</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>EUROSPORTS 2</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv29_2cmdoz6c</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
 </item>
 
 <item>
@@ -399,13 +419,6 @@
 <title>TSN 5</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1035.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>PREMIER SPORTS</title>
-<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv30_xdjbv8no</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<info></info>
 </item>
 
 <item>
@@ -505,30 +518,6 @@
 </item>
 
 <item>
-<title>fox sport 2</title>
-<link>http://27.254.64.105:1935/mobilelink/foxsport2.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://khaozap.com/wp/sport/foxsport2.php</page>
-<referer>http://khaozap.com</referer>
-</regex>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
-</item>
-
-<item>
-<title>bein sport</title>
-<link>http://27.254.64.105:1935/mobilelink/skynetsport4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://khaozap.com/wp/sport/beinsport.php</page>
-<referer>http://khaozap.com</referer>
-</regex>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
-</item>
-
-<item>
 <title>MUTV</title>
 <link>http://stream.balticbox.tv:8080/MUTV/mono.m3u8?token=asg!1dkhaSG!!54754</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
@@ -542,14 +531,3 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
-<item>
-<title>FS2</title>
-<link>http://163.172.150.10:8081/live/foxsports2-hq/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
-<referer>http://www.liveonlinetv247.info</referer>
-</regex>
-<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
-</item>

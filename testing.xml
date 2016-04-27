@@ -121,9 +121,28 @@
 <f4m>http://bit.ly/1Nx3UfB</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+
 <item>
-<title>test3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream.balticbox.tv:8080/SETIRL/2016/04/27/15/18/47-10006.ts?token=asg!1dkhaSG!!54754&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<title>FS2</title>
+<link>http://163.172.150.10:8081/live/foxsports2-hq/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
+<referer>http://www.liveonlinetv247.info</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
+</item>
+
+<item>
+<title>fox sport 2</title>
+<link>http://27.254.64.105:1935/mobilelink/foxsport2.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/foxsport2.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
 </item>
 
