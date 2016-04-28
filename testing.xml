@@ -186,7 +186,7 @@
 <name>getM3U8</name> 
 <expres>url=(.*?)'</expres> 
 <page>http://www.sdw-net.co/shadownet/channels/uktv/player/bt-sport2.php</page> 
-<referer>http://www.shadow-net.me/channels/BT-Sport-2.html</referer> 
+<referer>http://www.sdw-net.co/channels/BT-Sport-2.html</referer> 
 <agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36</agent>
 </regex> 
 </item>
