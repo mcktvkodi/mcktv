@@ -180,14 +180,15 @@
 <fanart></fanart>
 </item>
 <item> 
-<title>bt21</title> 
-<link>$doregex[getM3U8]</link>
+<title>ss1</title> 
+<link>http://109.236.92.136:1935/live/skysports1.stream/playlist.m3u8?$doregex[getM3U8]</link>
 <regex> 
 <name>getM3U8</name> 
 <expres>url=(.*?)'</expres> 
-<page>http://www.sdw-net.co/shadownet/channels/uktv/player/bt-sport2.php</page> 
-<referer>http://www.sdw-net.co/channels/BT-Sport-2.html</referer> 
+<page>http://shadow.go.ro/shadownet/channels/uktv/player/skysports1.php</page> 
+<referer>http://www.shadow-net.me/channels/Sky-Sports-1.html</referer> 
 <agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36</agent>
 </regex> 
 </item>
+http://109.236.92.136:1935/live/skysports1.stream/playlist.m3u8?wowzasessionid=1631713019&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE2IDM6MjE6NDEgUE0maGFzaF92YWx1ZT1zanBrdFpDUnc0SzltMXNNS1R0eDF3PT0mdmFsaWRtaW51dGVzPTIw
 http://pxstream.tv/embed.php?file=a19c33a446a662bae-foxsportsvbn&referrer=http://ekostreams.co/ch/foxsports.php?&width=468&height=386&jwplayer=flash
