@@ -172,13 +172,13 @@
 </item>
 
 <item>
-<title>bt1</title>
+<title>bte</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
 <regex>
 <name>get_sxstream</name>
 <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
 <page>http://pxstream.tv/embedrouter.php?file=hd1tues&width=670&height=500&jwplayer=flash</page>
-<referer>http://soccerinhd.com/hd1.html</referer>
+<referer>http://soccerinhd.com/</referer>
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 </item>
