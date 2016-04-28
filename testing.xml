@@ -180,8 +180,8 @@
 <fanart></fanart>
 </item>
 <item> 
-<title>ss</title> 
-<link>http://109.236.92.136:1935/live/skysports1.stream/playlist.m3u8?wowzasessionid=$doregex[getM3U8]</link>
+<title>ss1</title> 
+<link>http://109.236.92.136:1935/live/skysports1.stream/playlist.m3u8$doregex[getM3U8]</link>
 <regex> 
 <name>getM3U8</name> 
 <expres>url=(.*?)'</expres> 
