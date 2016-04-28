@@ -179,4 +179,15 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+<item> 
+<title>bt</title> 
+<link>$doregex[getM3U8]</link>
+<regex> 
+<name>getM3U8</name> 
+<expres>url=(.*?)'</expres> 
+<page>http://shadow.go.ro/shadownet/channels/usa/player/national-geographic.php</page> 
+<referer>http://www.shadow-net.me/channels/BT-Sport-2.html</referer> 
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36</agent>
+</regex> 
+</item>
 http://pxstream.tv/embed.php?file=a19c33a446a662bae-foxsportsvbn&referrer=http://ekostreams.co/ch/foxsports.php?&width=468&height=386&jwplayer=flash
