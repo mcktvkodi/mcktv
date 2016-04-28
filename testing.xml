@@ -180,7 +180,7 @@
 <fanart></fanart>
 </item>
 <item> 
-<title>bt2</title> 
+<title>bt21</title> 
 <link>$doregex[getM3U8]</link>
 <regex> 
 <name>getM3U8</name> 
