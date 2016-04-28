@@ -172,40 +172,13 @@
 </item>
 
 <item>
-<title>TEST | ekostreams.co -fox | m3u8</title>
-<link>$doregex[file]|User-Agent: Mozilla/5.0</link>
+<title>FOX SPORTS 2 USA - Link 3</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
 <regex>
-<name>file</name>
-<expres>.{0,6}[',"](.*?=)[',"],</expres>
-<page>http://pxstream.tv/embed.php?file=a19c33a446a662bae-foxsportsvbn&amp;referrer=http://ekostreams.co/ch/foxsports.php??width=600&amp;height=384&amp;width=600&amp;height=384&amp;jwplayer=flash</page>
-<referer>http://ekostreams.co/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item> 
-<title>ss</title> 
-<link>http://shadow.go.ro/shadownet/getd2.php/109.236.92.136:1935/live/skysports1.stream/playlist.m3u8?$doregex[getM3U8]</link>
-<regex> 
-<name>getM3U8</name> 
-<expres>url=(.*?)'</expres> 
-<page>http://www.shadow-net.me/shadownet/channels/uktv/player/skysports1.php</page> 
-<referer>http://www.shadow-net.me/channels/Sky-Sports-1.html</referer> 
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36</agent>
-</regex> 
-</item>
-http://109.236.92.136:1935/live/skysports1.stream/playlist.m3u8?wowzasessionid=1631713019&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE2IDM6MjE6NDEgUE0maGFzaF92YWx1ZT1zanBrdFpDUnc0SzltMXNNS1R0eDF3PT0mdmFsaWRtaW51dGVzPTIw
-http://pxstream.tv/embed.php?file=a19c33a446a662bae-foxsportsvbn&referrer=http://ekostreams.co/ch/foxsports.php?&width=468&height=386&jwplayer=flash
-
-<item>
-<title>AMC</title>
-<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</link>
-<regex>
-<name>getM3U8</name>
-<expres>src : '(.*?)'</expres>
-<page>http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</page>
-<referer>http://www.sdw-net.co/channels/AMC-East.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/btsporteurope.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 </item>
