@@ -180,12 +180,12 @@
 <fanart></fanart>
 </item>
 <item> 
-<title>ss1</title> 
-<link>$doregex[getM3U8]</link>
+<title>ss</title> 
+<link>http://shadow.go.ro/shadownet/getd2.php/109.236.92.136:1935/live/skysports1.stream/playlist.m3u8?$doregex[getM3U8]</link>
 <regex> 
 <name>getM3U8</name> 
 <expres>url=(.*?)'</expres> 
-<page>http://shadow.go.ro/shadownet/channels/uktv/player/skysports1.php</page> 
+<page>http://www.shadow-net.me/shadownet/channels/uktv/player/skysports1.php</page> 
 <referer>http://www.shadow-net.me/channels/Sky-Sports-1.html</referer> 
 <agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36</agent>
 </regex> 
