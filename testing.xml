@@ -18,7 +18,7 @@
 </item>
 <item>
 <title>ss1hdtest<title>
-<link>plugin://plugin.video.f4mTester/?url=http://http://gem-alta-iptv.no-ip.net:8899/streaming/clients_live.php?extension=m3u8%26username=belkhirabdou1%26password=belkhirabdou1%26stream=611%26type=hls%26segment=611_279.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/streaming/clients_live.php?extension=m3u8%26username=belkhirabdou1%26password=belkhirabdou1%26stream=611%26type=hls%26segment=611_279.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
@@ -210,7 +210,7 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <item>
 <title>ss1hdtest<title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/streaming/clients_live.php?extension=m3u8&username=belkhirabdou1&password=belkhirabdou1&stream=602&type=hls&segment=602_378.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/streaming/clients_live.php?extension=m3u8&username=belkhirabdou1&password=belkhirabdou1&stream=611&type=hls&segment=611_413.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
