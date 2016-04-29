@@ -144,8 +144,8 @@ http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1482.ts&amp;streamtype=TSDOWNLOAD
 </item>
 <item>
 <item>
-<title>nbcsn</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<title>nbcsn1</title>
+<f4m>$doregex[get_sxstream]|User-Agent=iPhone</f4m>
 <regex>
 <name>get_sxstream</name>
 <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
