@@ -17,40 +17,7 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>ss1hdtest<title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/streaming/clients_live.php?extension=m3u8%26username=belkhirabdou1%26password=belkhirabdou1%26stream=611%26type=hls%26segment=611_279.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports NEWS HD</title>
-<link>http://streams.iptv.zone:80/p/59710/c/40/u/16088/3bhMpAY9dz774wYTJ5Pn1LGRk1K6h3</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-<item>
-<title>FS2 test</title>
-<f4m>http://bit.ly/1WQ6fEL</f4m>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-<item>
-<title>FS2 test2</title>
-<f4m>http://bit.ly/1WQ6fEL</f4m>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>Bt Sport Europe HD</title>
-<f4m>http://bit.ly/24h8lj6</f4m>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>Bt Sport 1 HD</title>
-<link>http://streams.iptv.zone:80/p/59710/c/38/u/16088/3bhMpAY9dz774wYTJ5Pn1LGRk1K6h3</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-<item>
-<title>sky sport 1 HD</title>
+<title>sky sport 1</title>
 <link>http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/610.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
@@ -62,67 +29,38 @@
 <item>
 <title>NBCSN HD</title>
 <f4m>http://bit.ly/1SpehT5</f4m>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/NBCSN_Logo.png/revision/latest?cb=20130903050718</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>BT Sports 1 HD</title>
+<title>BT Sports 1</title>
 <f4m>http://bit.ly/1QyMmdA</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
 <item>
-<title>BT Sports 2 HD</title>
+<title>BT Sports 2</title>
 <f4m>http://bit.ly/1qQprWe</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
 <item>
-<title>BT Sports Europe HD</title>
+<title>BT Sports Europe</title>
 <f4m>http://bit.ly/24h8lj6</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports News HD</title>
+<title>Sky Sports News</title>
 <f4m>http://bit.ly/26fdnhQ</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports 1 HD</title>
+<title>Sky Sports 1</title>
 <f4m>http://bit.ly/1SZyaML</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
-<item>
-<title>Sky Sports 2 HD</title>
-<f4m>http://bit.ly/1Tu8sCB</f4m>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 3 HD</title>
-<f4m>http://bit.ly/1WecMby</f4m>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 4 HD</title>
-<f4m>http://bit.ly/1Vx0BI4</f4m>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 5 HD</title>
-<f4m>http://bit.ly/1NvLBYk</f4m>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports F1 HD</title>
-<f4m>http://bit.ly/21e0vomv</f4m>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
 <item>
 <title>f1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://xtream-codes.no-ip.org:61250/live/avatar016/ixGdWCs7DW/12062.ts&amp;streamtype=TSDOWNLOADER</link>
@@ -136,13 +74,7 @@
 </item>
 
 <item>
-<title>test1</title>
-<f4m>http://bit.ly/1NDkHIK</f4m>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>test2</title>
+<title>FS1</title>
 <f4m>http://bit.ly/1Nx3UfB</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
@@ -182,19 +114,9 @@
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 </item>
-<item>
-<title>bte</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://pxstream.tv/embedrouter.php?file=hd1tues</page>
-<referer>http://soccerinhd.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
 </item>
 <item>
-<title>ss1test</title>
+<title>~Sky Sports 1</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/uktv/player/skysports1.php</link>
 <regex>
 <name>get_sxstream</name>
@@ -204,10 +126,6 @@
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 </item>
-<item>
-<title>test</title>
-<link>rtmp://207.244.77.146:6034/tv/ch12q2</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <item>
 <title>ss1test<title>
 <link>http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/611.m3u8</link>
@@ -225,9 +143,4 @@ http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1482.ts&amp;streamtype=TSDOWNLOAD
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>test</title>
-<link>plugin://plugin.video.f4mTester/?url=http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8&amp;streamtype=TSDOWNLOADER|X-Forwarded-For=54.183.196.251|User-Agent=Mozilla/5.0</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251|User-Agent=Mozilla/5.0
-http://54.82.58.246/targeting/api?url=http%3A%2F%2Ftvenbcsn-i.Akamaihd.net%2Fhls%2Flive%2F218235%2Fnbcsnx%2F2596k%2FYi0fQhuQuib%2F146194%2Fsegment_146194026.ts&cb_url=http%3A%2F%2F54.177.79.231%2%2BPatrick%2BShow%26event_id%3D5470584%26next_break_duration%3D240%26next_break_no%3D00093754034059%26_auth_cid%3D
+
