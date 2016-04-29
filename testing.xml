@@ -194,8 +194,8 @@
 </regex>
 </item>
 <item>
-<title>ss1</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<title>ss1test</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/uktv/player/skysports1.php</link>
 <regex>
 <name>get_sxstream</name>
 <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
