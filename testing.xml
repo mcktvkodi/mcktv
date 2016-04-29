@@ -163,7 +163,6 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-
 <title>SKY SPORTS F1</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/uktv/player/sky-sports-f1.php</link>
 <regex>
