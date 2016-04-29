@@ -139,7 +139,7 @@
 </item>
 <item>
 <title>SKY SPORTS 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://kingwebtv.com:8090/live/essa/essa/2075.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://kingwebtv.com:8090/live/essa/essa/577.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
@@ -151,6 +151,18 @@
 <title>SKY SPORTS 3</title>
 <link>plugin://plugin.video.f4mTester/?url=http://kingwebtv.com:8090/live/essa/essa/72.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS F1</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportsf1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
 </item>
 
 http://www.liveonlinetv247.info/embed/nbcsn.php?
