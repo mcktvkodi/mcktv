@@ -168,5 +168,16 @@
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
 </regex>
 </item>
+<item>
+<title>AMC</title>
+<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</link>
+<regex>
+<name>getM3U8</name>
+<expres>src : '(.*?)'</expres>
+<page>http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</page>
+<referer>http://www.sdw-net.co/channels/AMC-East.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+</item>
 http://www.liveonlinetv247.info/embed/nbcsn.php?
 
