@@ -209,8 +209,8 @@
 <link>rtmp://207.244.77.146:6034/tv/ch12q2</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <item>
-<title>ss1hdtest<title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/streaming/clients_live.php?extension=m3u8&username=belkhirabdou1&password=belkhirabdou1&stream=611&type=hls&segment=611_413.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>ss1test<title>
+<link>http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/611.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
