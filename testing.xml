@@ -220,7 +220,14 @@
 </item>
 http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1482.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0
 <item>
-<title>test</title>
+<title>nsbcn</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1482.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+<item>
+<title>test</title>
+<link>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251|User-Agent=Mozilla/5.0</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251|User-Agent=Mozilla/5.0
+http://54.82.58.246/targeting/api?url=http%3A%2F%2Ftvenbcsn-i.Akamaihd.net%2Fhls%2Flive%2F218235%2Fnbcsnx%2F2596k%2FYi0fQhuQuib%2F146194%2Fsegment_146194026.ts&cb_url=http%3A%2F%2F54.177.79.231%2%2BPatrick%2BShow%26event_id%3D5470584%26next_break_duration%3D240%26next_break_no%3D00093754034059%26_auth_cid%3D
