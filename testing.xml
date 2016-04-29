@@ -205,7 +205,7 @@
 </regex>
 </item>
 <item>
-<title>Sky Sports NEWS HD</title>
-<link>http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<title>test</title>
+<link>rtmp://207.244.77.146:6034/tv/ch12q2</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
