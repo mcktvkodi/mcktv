@@ -137,6 +137,21 @@
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/24.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+<item>
+<title>SKY SPORTS 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://kingwebtv.com:8090/live/essa/essa/2075.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://kingwebtv.com:8090/live/essa/essa/71.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://kingwebtv.com:8090/live/essa/essa/72.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
 
 http://www.liveonlinetv247.info/embed/nbcsn.php?
 
