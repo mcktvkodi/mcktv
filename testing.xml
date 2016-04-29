@@ -193,5 +193,14 @@
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 </item>
-http://pxstream.tv/embedrouter.php?file=hd1tues&width=670&height=500&jwplayer=flash
-http://seg.sharethis.com/getSegment.php?purl=http%3A%2F%2Fsoccerinhd.com%2Fhd1.html&jsref=http%3A%2F%2Fsoccerinhd.com%2F&rnd=1461874795482
+<item>
+<title>ss1</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://shadow.go.ro/shadownet/channels/uktv/player/skysports1.php</page>
+<referer>http://www.shadow-net.me/channels/Sky-Sports-1.html</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
