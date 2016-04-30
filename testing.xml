@@ -336,6 +336,16 @@
 </regex>
 <thumbnail></thumbnail>
 </item>
+<item>
+<title>ss1</title>
+<link>$doregex[url]</link>
+<regex>
+    <name>url</name>
+    <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68713',False,False,'http://vipracing.info/')</expres>
+    <page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
 http://www.liveonlinetv247.info/barclayspremierleague.php
 http://www.shadow-net.me/channels/BT-Sport-1.html
 
