@@ -179,12 +179,18 @@
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 </item>
+
 <item>
 <title>SKY SPORTS F1 - Link 2</title>
-<link>http://stream.balticbox.tv:8080/SkySPf1/mono.m3u8?token=asg!1dkhaSG!!54754</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/uktv/player/sky-sports-f1.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://shadow.go.ro/shadownet/channels/uktv/player/sky-sports-f1.php</page>
+<referer>http://www.shadow-net.me/channels/Sky-Sports-F1.html</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
 </item>
-<item>
 
 <item>
 <title>SKY SPORTS F1 - Link 3</title>
