@@ -356,6 +356,17 @@
 </regex>
 <thumbnail></thumbnail>
 </item>
+<item>
+<title>vip</title>
+<link>$doregex[url]</link>
+<regex>
+    <name>url</name>
+    <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71396',False,False,'http://vipracing.info/')</expres>
+    <page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
 68718
 http://www.liveonlinetv247.info/barclayspremierleague.php
 http://www.shadow-net.me/channels/BT-Sport-1.html
