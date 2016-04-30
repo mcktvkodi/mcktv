@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
+<title>Bolton v Hull</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/barclayspremierleague.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
+</item>
+<item>
 <title>Watford v Aston Villa</title>
 <link>http://ignore me</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
