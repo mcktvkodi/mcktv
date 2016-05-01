@@ -104,21 +104,22 @@ plugin://plugin.video.f4mTester/?url=http://nlds5.cdnak.lon.neulion.com/nlds/col
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>} -->
 <item>
-<title>Come Back Later</title>
+<title>WWE PAYBACK</title>
 <link>http://ignore</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
-<!-- <item>
-<title>[COLOR gray]Sky Sports 1 HD new[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/asdf/asdf/2964.ts&amp;streamtype=TSDOWNLOADER</link>
+<item>
+<title>[COLOR gray]link 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1329.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>[COLOR gray]Sky Sports 1 HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/735.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[COLOR gray]link 2[/COLOR]</title>
+<sportsdevil>http://hdfree.tv/live/wwen.php?</sportsdevil>
+<referer>http://hdfree.tv</referer>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
-<item>
+<!---<item>
 <title>[COLOR gray]Sky Sports 1[/COLOR]</title>
 <link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp1.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
