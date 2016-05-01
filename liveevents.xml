@@ -38,13 +38,13 @@
 </item>
 <item>
 <title>[COLOR gray]PLP SD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/swanseacity/as/live/swanseacity_hd_3000.bootstrap?nltid=plp&nltdt=6&nltnt=1&h=3f5acfdeb83df6418b09361637095754.1462098888|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/swanseacity/as/live/swanseacity_hd_3000.f4m?nltid=plp&nltdt=6&nltnt=1&h=f12b72954168ffc0a32ea1ad76d0ce4f.1462100383|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 </item>
 <item>
 <title>[COLOR gray]PLP HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/swanseacity/as/live/swanseacity_hd_800.bootstrap?nltid=plp&nltdt=6&nltnt=1&h=3f5acfdeb83df6418b09361637095754.1462098888|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/swanseacity/as/live/swanseacity_hd_800.f4m?nltid=plp&nltdt=6&nltnt=1&h=f12b72954168ffc0a32ea1ad76d0ce4f.1462100383|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 </item>
