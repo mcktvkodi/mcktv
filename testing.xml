@@ -21,12 +21,6 @@
 </item>
 
 <item>
-<title>FS1</title>
-<f4m>http://bit.ly/1Nx3UfB</f4m>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
 <title>FS2</title>
 <link>http://163.172.150.10:8081/live/foxsports2-hq/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
@@ -61,17 +55,6 @@
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 </item>
-</item>
-
-<item>
-<title>ss1test<title>
-<link>http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/611.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-<item>
-<title>ss1test<title>
-<f4m>http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/611.m3u8</f4m>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
 <item>
