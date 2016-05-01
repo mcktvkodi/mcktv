@@ -404,8 +404,8 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>nbcsn1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/jay/jay/46.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<title>nbcsn</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/jay/jay/46.m3u</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
@@ -414,8 +414,8 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>fs1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/jay/jay/47.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>fs</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/jay/jay/47.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
