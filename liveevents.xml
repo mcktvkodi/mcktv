@@ -1,121 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<item>
-<title>Bolton v Hull</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/barclayspremierleague.php?width=650&height=480</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-</item>
-<item>
-<title>Watford v Aston Villa - CTH Stadium 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/163.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-</item>
-<item>
-<title>Watford v Aston Villa - Bein 9</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports9.php?width=650&height=480</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-</item>
-<item>
-<title>Newcastle v Crystal Palace - TSN 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1031.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-</item>
-<item>
-<title>Newcastle v Crystal Palace - Setanta</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/uktv/player/setanta.php</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://shadow.go.ro/shadownet/channels/uktv/player/setanta.php</page>
-<referer>http://www.shadow-net.me/channels/Setanta-Ireland.html</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-</item>
-<item>
-<title>Newcastle v Crystal Palace - Setanta</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.102.248:8000/live/phill/phill/409.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-</item>
-<item>
-<title>West Brom v West Ham - CTH Stadium 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/164.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 
+<item>
+<title>Liverpool v Swansea - BT Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1512.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 </item>
 <item>
-<title>Everton v Bournemouth - NBCSN</title>
+<title>Liverpool v Swansea - BT Sports 1</title>
+<link>rtmp://185.63.255.60:80/live playpath=wodhs1j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=wodhs1j&vw=736&vh=438  token=%Zrey(nKa@#Z</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
+</item>
+<item>
+<title>Liverpool v Swansea - NBCSC</title>
 <f4m>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 </item>
 <item>
-<title>Everton v Bournemouth - CTH Stadium 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/161.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-</item>
-
-<item>
-<title>Stoke v Sunderland - TSN 3</title>
+<title>Liverpool v Swansea - TSN 3</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1033.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 </item>
 <item>
-<title>Stoke v Sunderland - CTH Stadium 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/162.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-</item>
-<item>
-<title>Arsenal v Norwich City - Sky Sports 1</title>
-<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp1.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-</item>
-<item>
-<title>Arsenal v Norwich City - Sky Sports 1</title>
-<link>rtmp://185.63.255.60:80/live playpath=swqhs1a swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=swqhs1a&vw=688&vh=387 token=%Zrey(nKa@#Z</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-</item>
-<item>
-<title>Arsenal v Norwich City - Sky Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/735.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-</item>
-<item>
-<title>Arsenal v Norwich City - Bein 11</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports11.php?width=650&height=480</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
+<title>Liverpool v Swansea - CTH STADIUM 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/161.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 </item>
