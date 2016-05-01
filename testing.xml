@@ -387,6 +387,19 @@
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 </item>
+<item>
+<title>bt1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.102.248:8000/live/phill/phill/347.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>bt1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://clay24.webhop.net:8000/live/mario/mario/6.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+
+http://62.210.102.248:8000/live/phill/phill/347.ts
 64232
 68718
 http://www.liveonlinetv247.info/barclayspremierleague.php
