@@ -2,7 +2,7 @@
 
 <item>
 <title>Swansea City v Liverpool</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1511.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>http://ignore</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 </item>
@@ -19,7 +19,7 @@
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 </item>
 <item>
-<title>NBCSC</title>
+<title>NBCSN</title>
 <f4m>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
@@ -38,53 +38,63 @@
 </item>
 <item>
 <title>Manchester United v Leicester City - Sky Sports 1</title>
+<link>http://ignore</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>Sky Sports 1 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/735.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>Manchester United v Leicester City - Sky Sports 1</title>
+<title>Sky Sports 1</title>
 <link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp1.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>Manchester United v Leicester City - NBCSC</title>
+<title>NBCS</title>
 <f4m>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 </item>
 <item>
-<title>Manchester United v Leicester City - TSN 2</title>
+<title>TSN 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1032.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>Manchester United v Leicester City - CTH STADIUM 1</title>
+<title>CTH STADIUM 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/160.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>Southampton v Manchester City  - Sky Sports 1</title>
+<title>Southampton v Manchester City</title>
+<link>http://ignore</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>Sky Sports 1 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/735.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>Southampton v Manchester City - Sky Sports 1</title>
+<title>Sky Sports 1</title>
 <link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp1.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>Southampton v Manchester City - NBCSC</title>
+<title>NBCSN</title>
 <f4m>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 </item>
 <item>
-<title>Southampton v Manchester City - TSN 2</title>
+<title>TSN 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1032.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>Southampton v Manchester City - CTH STADIUM 5</title>
+<title>CTH STADIUM 5</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/164.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
