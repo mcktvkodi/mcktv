@@ -27,6 +27,11 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <info></info>
 </item>
+<item>
+<title>[COLOR gray]Link 4[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://kingwebtv.com:8090/live/essa/essa/76.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
 
 <item>
 <title>SKY SPORTS 1</title>
