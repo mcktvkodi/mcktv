@@ -404,8 +404,8 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>nbcsn</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/jay/jay/46.m3u</link>
+<title>nbcsn1</title>
+<link>http://188.165.12.93:8000/live/jay/jay/46.m3u</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
