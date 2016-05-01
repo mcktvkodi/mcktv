@@ -398,6 +398,12 @@
 <link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/asdf/asdf/2964.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+<item>
+<title>tsn</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4594.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
 http://ORBIT-IPTV.COM:2500/live/asdf/asdf/2964.ts
 http://orbit-iptv.com:2500/live/asdf/asdf/942.ts
 
