@@ -178,7 +178,7 @@
 </item>
 <item>
 <title>[COLOR gray]Link 1[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/28.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.102.248:8000/live/phill/phill/352.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
@@ -190,7 +190,8 @@
 
 <item>
 <title>[COLOR gray]Link 3[/COLOR]</title>
-<link>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</link>
+<sportsdevil>http://www.ibrod.tv/skysports5.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <info></info>
 </item>
