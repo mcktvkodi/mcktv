@@ -376,6 +376,17 @@
 </regex>
 <thumbnail></thumbnail>
 </item>
+<item> 
+<title>f1 streamazone</title>
+<link>$doregex[getRTMP] app=live swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.cast4u.tv/embedcr.php?live=skysf1&vw=700&vh=480 live=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>(rtmp.*?)"</expres>
+<page>http://www.cast4u.tv/embedcr.php?live=skysf1&vw=700&vh=480</page>
+<referer>http://www.streamazone.com/live-tv/gb/sky-sports-f1</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
 64232
 68718
 http://www.liveonlinetv247.info/barclayspremierleague.php
