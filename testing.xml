@@ -423,6 +423,11 @@
 <link>plugin://plugin.video.f4mTester/?url=http://37.187.142.232:8000/live/persian.eagle/persian.eagle/200.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+<item>
+<title>sky sport News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/602.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
 
 http://ORBIT-IPTV.COM:2500/live/asdf/asdf/2964.ts
 http://orbit-iptv.com:2500/live/asdf/asdf/942.ts
