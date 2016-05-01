@@ -45,7 +45,7 @@
 </item>
 
 <item>
-<title>bt</title>
+<title>bt europe</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
 <regex>
 <name>get_sxstream</name>
