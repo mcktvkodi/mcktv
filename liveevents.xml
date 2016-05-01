@@ -134,19 +134,6 @@ plugin://plugin.video.f4mTester/?url=http://nlds5.cdnak.lon.neulion.com/nlds/col
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/164.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
-<item>
-<title>[COLOR gray]PLP HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nlds7.cdnak.lon.neulion.com/nlds/coliseum/southampton/as/live/southampton_hd_3000.f4m?nltid=plp&nltdt=6&nltnt=1&h=4ad45590604b54e781db5c116b58135b.1462115543|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-</item>
-<item>
-<title>[COLOR gray]PLP SD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nlds7.cdnak.lon.neulion.com/nlds/coliseum/southampton/as/live/southampton_hd_800.f4m?nltid=plp&nltdt=6&nltnt=1&h=4ad45590604b54e781db5c116b58135b.1462115543|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-</item>
-http://nlds7.cdnak.lon.neulion.com/nlds/coliseum/southampton/as/live/southampton_hd_3000.f4m?nltid=plp&nltdt=6&nltnt=1&h=4ad45590604b54e781db5c116b58135b.1462115543|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)
 
 
 
