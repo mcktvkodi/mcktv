@@ -6,6 +6,7 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 </item>
+
 <item>
 <title>[COLOR gray]Link 1[/COLOR]</title>
 <link>http://stream.balticbox.tv:8080/SKYSPNEWS/mono.m3u8?token=asg!1dkhaSG!!54754</link>
@@ -22,7 +23,7 @@
 
 <item>
 <title>[COLOR gray]Link 3[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.137:8000/live/karimosSat/karimos/9575.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/602.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <info></info>
 </item>
