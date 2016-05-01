@@ -399,8 +399,23 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>f1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/jay/jay/4533.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>bein hd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/jay/jay/4895.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>nbcsn</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/jay/jay/46.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>fs2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/jay/jay/1703.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>fs1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/jay/jay/47.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
