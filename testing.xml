@@ -244,18 +244,8 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>Castalba Regex</title>
-<link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=27781&wh=600&ht=380&r=goatd.net</link>
-<regex>
-	<name>rtmp</name>
-	<expres>'streamer': '(.*?)'</expres>
-	<page>http://castalba.tv/channel/27781</page>
-</regex>
-<regex>
-	<name>path</name>
-	<expres>'file': '(.*?)'</expres>
-	<page>http://castalba.tv/channel/27781</page>
-</regex>
+<title>test</title>
+<link>http://81.174.150.158:9981/stream/channelid/1848140467?ticket=213E0B18EED90D1F2BC177EDE61151FDFE7B4AD5&profile=pass</link>
 <thumbnail></thumbnail>
 </item
 
