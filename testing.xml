@@ -245,16 +245,16 @@
 </item>
 <item>
 <title>Castalba Regex</title>
-<link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv live=true timeout=15</link>
+<link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=27781&wh=600&ht=380&r=goatd.net</link>
 <regex>
 	<name>rtmp</name>
 	<expres>'streamer': '(.*?)'</expres>
-	<page>http://castalba.tv/embed.php?cid=27781&wh=600&ht=380&r=goatd.net</page>
+	<page>http://castalba.tv/channel/27781</page>
 </regex>
 <regex>
 	<name>path</name>
 	<expres>'file': '(.*?)'</expres>
-	<page>http://castalba.tv/embed.php?cid=27781&wh=600&ht=380&r=goatd.net</page>
+	<page>http://castalba.tv/channel/27781</page>
 </regex>
 <thumbnail></thumbnail>
 </item
