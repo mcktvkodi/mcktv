@@ -249,15 +249,21 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>test</title>
+<title>Sky Sports 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://sat.010e.net:8000/live/Loui@2468/Loui789321/187.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>test</title>
+<title>Bein 11 </title>
 <link>plugin://plugin.video.f4mTester/?url=http://sat.010e.net:8000/live/Loui@2468/Loui789321/51.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+<item>
+<title>Bein 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sat.010e.net:8000/live/Loui@2468/Loui789321/334.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
 
 
 http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1386.ts
