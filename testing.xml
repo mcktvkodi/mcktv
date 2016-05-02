@@ -235,9 +235,15 @@
 </item>
 <item>
 <title>sky sports 1 hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/paulkm/satlover.com/22.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/ISTOLETHIs/TO_BE_A_FUCKING_IDIOT/107.m3u8&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+<item>
+<title>sky sports 1 hd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/ISTOLETHIs/TO_BE_A_FUCKING_IDIOT/107.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
 
 
 http://ORBIT-IPTV.COM:2500/live/asdf/asdf/2964.ts
