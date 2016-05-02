@@ -104,19 +104,64 @@ plugin://plugin.video.f4mTester/?url=http://nlds5.cdnak.lon.neulion.com/nlds/col
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>} -->
 <item>
-<title>WWE PAYBACK</title>
+<title>Walsall v Fleetwood</title>
 <link>http://ignore</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>[COLOR gray]link 1[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1329.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/10.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>[COLOR gray]link 2[/COLOR]</title>
-<sportsdevil>http://hdfree.tv/live/wwen.php?</sportsdevil>
-<referer>http://hdfree.tv</referer>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.102.248:8000/live/phill/phill/328.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>rtmp://185.63.255.60:80/live playpath=swqhs1a swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=swqhs1a&vw=688&vh=387 token=%Zrey(nKa@#Z</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>Brighton v Derby County</title>
+<link>http://ignore</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/10.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.102.248:8000/live/phill/phill/328.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>rtmp://185.63.255.60:80/live playpath=swqhs1a swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=swqhs1a&vw=688&vh=387 token=%Zrey(nKa@#Z</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>Burnley v Queens Park Rangers</title>
+<link>http://ignore</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/10.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.102.248:8000/live/phill/phill/328.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>rtmp://185.63.255.60:80/live playpath=swqhs1a swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=swqhs1a&vw=688&vh=387 token=%Zrey(nKa@#Z</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <!---<item>
