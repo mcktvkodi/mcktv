@@ -234,13 +234,13 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
-<title>sky sports 1 hd</title>
+<title>sky sports 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/ISTOLETHIs/TO_BE_A_FUCKING_IDIOT/107.m3u8&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 <item>
 <title>sky sports 1 hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/ISTOLETHIs/TO_BE_A_FUCKING_IDIOT/107.m3u8</link>
+<link>http://iptvsatuk.ddns.net:8080/live/ISTOLETHIs/TO_BE_A_FUCKING_IDIOT/107.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
