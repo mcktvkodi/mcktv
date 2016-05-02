@@ -249,12 +249,12 @@
 <regex>
 	<name>rtmp</name>
 	<expres>'streamer': '(.*?)'</expres>
-	<page>http://castalba.tv/channel/27781</page>
+	<page>http://castalba.tv/embed.php?cid=27781&wh=600&ht=380&r=goatd.net</page>
 </regex>
 <regex>
 	<name>path</name>
 	<expres>'file': '(.*?)'</expres>
-	<page>http://castalba.tv/channel/27781</page>
+	<page>http://castalba.tv/embed.php?cid=27781&wh=600&ht=380&r=goatd.net</page>
 </regex>
 <thumbnail></thumbnail>
 </item
