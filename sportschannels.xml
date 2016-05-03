@@ -58,17 +58,18 @@
 
 <item>
 <title>[COLOR gray]Link 3[/COLOR]</title>
-<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp1.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
+<link>plugin://plugin.video.f4mTester/?url=http://kingwebtv.com:8090/live/essa/essa/577.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <info></info>
 </item>
 
 <item>
 <title>[COLOR gray]Link 4[/COLOR]</title>
-<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.102.248:8000/live/phill/phill/328.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <info></info>
 </item>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8</link>
 
 <item>
 <title>[COLOR gray]Link 5[/COLOR]</title>
