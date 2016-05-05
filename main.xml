@@ -35,4 +35,20 @@
 <fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/fanart.jpg</fanart>
 <info>MckTV</info>
 </channel>
+<channel>
+<name>[COLOR blue]please dont tweet about[/COLOR]</name>
+<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/testing.xml</externallink>
+<fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/fanart.jpg</fanart>
+<info>MckTV</info>
+</channel>
+<channel>
+<name>[COLOR blue]ths addon, trying to keep it quiet[/COLOR]</name>
+<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/testing.xml</externallink>
+<fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/fanart.jpg</fanart>
+<info>MckTV</info>
+</channel>
 </channels>
