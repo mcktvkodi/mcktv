@@ -247,7 +247,7 @@
 </item>
 <item>
 <title>[COLOR gray]Link 1[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1511.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>http://51.255.81.190:8080/UK-BT-Sport-1/mono.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
@@ -266,7 +266,7 @@
 
 <item>
 <title>[COLOR gray]Link 4[/COLOR]</title>
-<link>http://185.59.222.65:8080/Iuyjbmmhhjfdmbt1/index.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://sat.010e.net:8000/live/Loui@2468/Loui789321/192.ts</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <info></info>
 </item>
@@ -286,7 +286,7 @@
 
 <item>
 <title>[COLOR gray]Link 2[/COLOR]</title>
-<link>http://185.59.222.65:8080/Iuyjbmmhhjfdmbt2/index.m3u8</link>
+<link>http://51.255.81.190:8080/UK-BT-Sport-2/mono.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <info></info>
 </item>
@@ -299,7 +299,7 @@
 
 <item>
 <title>[COLOR gray]Link 4[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1117.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/44.ts</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
@@ -310,7 +310,7 @@
 </item>
 <item>
 <title>[COLOR gray]Link 1[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1513.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://sat.010e.net:8000/live/Loui@2468/Loui789321/247.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
@@ -330,7 +330,7 @@
 
 <item>
 <title>[COLOR gray]Link 4[/COLOR]</title>
-<link>http://185.59.222.65:8080/Iuyjbmmhhjfdmbteuro/index.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvpolo.dvrdns.org:22921/live/visioniptv/skype/64.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <info></info>
 </item>
