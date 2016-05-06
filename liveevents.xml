@@ -1,61 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
  
 <item>
-<title>[COLOR blue]Liverpool v Villareal[/COLOR]</title>
+<title>[COLOR blue]Come Back Later[/COLOR]</title>
 <link>http://ignore</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
-
-<item>
-<title>[COLOR gray]BT Sports Europe[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1VKeiU3&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1513.ts
-<item>
-<title>[COLOR gray]BT Sports Europe[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/21xn7QS&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>http://62.210.102.248:8000/live/phill/phill/1032.ts
-
-<item>
-<title>[COLOR gray]BT Sports Europe[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/24rkKnU&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1325.ts
-<item>
-<title>[COLOR gray]BT Sports Europe[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1rUWE43&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>http://sat.010e.net:8000/live/Loui@2468/Loui789321/247.ts
-
-
-<item>
-<title>[COLOR gray]FS1[/COLOR]</title>
-<link>http://bit.ly/23pDVc9</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
-
-<item>
-<title>[COLOR gray]TSN 3[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1roOY9o&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1033.ts
-
-<item>
-<title>[COLOR gray]Bein 11EN HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1rUVtBE&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>http://sat.010e.net:8000/live/Loui@2468/Loui789321/11.ts
-<item>
-<title>[COLOR gray]Bein 11EN SD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1X8Q0CI&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>http://sat.010e.net:8000/live/Loui@2468/Loui789321/51.ts
-<item>
-<title>[COLOR gray]Bein 2 HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1UzqPbL&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>http://sat.010e.net:8000/live/Loui@2468/Loui789321/334.ts
 
 
 
