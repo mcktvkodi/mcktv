@@ -1,8 +1,357 @@
 <?xml version="1.0" encoding="utf-8"?>
  
 <item>
-<title>[COLOR blue]Come Back Later[/COLOR]</title>
+<title>[COLOR blue]Charlton Athletic v Burnley[/COLOR]</title>
 <link>http://ignore</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 2[/COLOR]</title>
+<link>http://bit.ly/1WflJ6l</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1q4y2Up&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1Tw8fwf&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1ZoBKEo&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1TMXgBi&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1T3jjDF&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR blue]Middlesbrough v Brighton[/COLOR]</title>
+<link>http://ignore</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/21DJwfp&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/21DJwfp&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/24zcq5R&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1SV6vgo&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BEIN 12 EN[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1Tthi0R&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BEIN 12 EN[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1VNdyOd&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+ 
+<item>
+<title>[COLOR blue]Norwich City v Manchester Utd[/COLOR]</title>
+<link>http://ignore</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BT Sports 1[/COLOR]</title>
+<link>http://bit.ly/1VNbW6R</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BT Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1T3hjeM</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BT Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/21FQpx0</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]NBCSN[/COLOR]</title>
+<f4m>http://bit.ly/1q4vHcm</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR gray]Astro Super Sport 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1QUrpKs</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]TSN 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1s1oDiz</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]TSN 4[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1SV59SX</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BEIN 11 EN[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1T3hwP7&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR blue]Sunderland v Chelsea[/COLOR]</title>
+<link>http://ignore</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR gray]Astro Super Sport 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1QUrpKs</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]TSN 4[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1SV59SX</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]CTH STADIUM 4[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1OhmOlP</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BEIN 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1UzqPbL</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue]Aston Villa v Newcastle Utd[/COLOR]</title>
+<link>http://ignore</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]NBCSN[/COLOR]</title>
+<f4m>http://bit.ly/1q4vHcm</f4m>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]CTH STADIUM 5[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1YdM81I</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BEIN 11 EN[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1T3hwP7&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BEIN 11 EN[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1X8Q0CI&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Astro Super Sport 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1rz6xnl</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue]Crystal Palace v Stoke City[/COLOR]</title>
+<link>http://ignore</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]CTH STADIUM 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1Xde9rY&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BEIN 9[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1Xde8nH</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BEIN 9[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1T3i07Y</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue]West Ham v Swansea City[/COLOR]</title>
+<link>http://ignore</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]CTH STADIUM 3[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/21FSklc</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]TSN 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1031.ts</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BEIN 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1SV6f14</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Bournemouth v West Brom[/COLOR]</title>
+<link>http://ignore</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]CTH STADIUM 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1UG1Tzi&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BEIN 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1TtfHrH</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BEIN 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1UG1YDa</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue]Leicester City v Everton[/COLOR]</title>
+<link>http://ignore</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/21DJwfp&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/21DJwfp&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/24zcq5R&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1SV6vgo&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BEIN 11 EN[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1X8Q0CI&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BEIN 11 EN[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1T3hwP7&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Astro Super Sport 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1QUrpKs</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]CTH STADIUM 3[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/21FSklc</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BEIN 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://sat.010e.net:8000/live/Loui@2468/Loui789321/334.ts</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
