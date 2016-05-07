@@ -408,6 +408,12 @@ plugin://plugin.video.f4mTester/?url=http://sat.010e.net:8000/live/Loui@2468/Lou
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR gray]Box Nation[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1UHNyCF&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
 
 
 
