@@ -36,7 +36,7 @@
 <info>MckTV</info>
 </channel>
 <channel>
-<name>[COLOR blue]please dont tweet about[/COLOR]</name>
+<name>[COLOR blue]fb | MckTV Kodi Build[/COLOR]</name>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <externallink>http://ignoreme</externallink>
@@ -44,7 +44,15 @@
 <info>MckTV</info>
 </channel>
 <channel>
-<name>[COLOR blue]ths addon, trying to keep it quiet[/COLOR]</name>
+<name>[COLOR blue]please dont tweet about this[/COLOR]</name>
+<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<externallink>http://ignoreme</externallink>
+<fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/fanart.jpg</fanart>
+<info>MckTV</info>
+</channel>
+<channel>
+<name>[COLOR blue]addon, trying to keep it quiet[/COLOR]</name>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <externallink>http://ignoreme</externallink>
