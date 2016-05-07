@@ -282,7 +282,7 @@
 
 <item>
 <title>[COLOR gray]BEIN 1[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1SV6f14</link>
+<!-- <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1SV6f14</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
@@ -317,7 +317,7 @@
 </item>
  -->
 
-<item>
+<!-- <item>
 <title>[COLOR blue]Leicester City v Everton[/COLOR]</title>
 <link>http://ignore</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
@@ -376,7 +376,7 @@ plugin://plugin.video.f4mTester/?url=http://sat.010e.net:8000/live/Loui@2468/Lou
 <link>plugin://plugin.video.f4mTester/?url=http://sat.010e.net:8000/live/Loui@2468/Loui789321/334.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
-
+ --> -->
 
 <item>
 <title>[COLOR blue]BOXING[/COLOR]</title>
