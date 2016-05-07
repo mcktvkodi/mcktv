@@ -324,6 +324,12 @@
 </item>
 
 <item>
+<title>[COLOR gray]NBC LIVE EXTRA 4[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1334.ts</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR gray]Sky Sports 1[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/21DJwfp&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
@@ -349,13 +355,7 @@
 
 <item>
 <title>[COLOR gray]BEIN 11 EN[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1X8Q0CI&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR gray]BEIN 11 EN[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/72.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1VNYmAl&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
