@@ -411,6 +411,14 @@ plugin://plugin.video.f4mTester/?url=http://sat.010e.net:8000/live/Loui@2468/Lou
 </item>
 
 <item>
+<title>[COLOR gray]Sky Sports 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/11.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+
+
+<item>
 <title>[COLOR gray]Box Nation[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/21IcuuR&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
