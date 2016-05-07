@@ -162,8 +162,8 @@
 </item>
 
 <item>
-<title>[COLOR gray]TSN 4[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1SV59SX</link>
+<title>[COLOR gray]CTH STADIUM 4[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://kingwebtv.com:8090/live/essa/essa/619.ts</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
@@ -189,7 +189,7 @@
 
 <item>
 <title>[COLOR gray]NBCSN[/COLOR]</title>
-<f4m>http://bit.ly/1q4vHcm</f4m>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://sat.010e.net:8000/live/Loui@2468/Loui789321/1765.ts</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
@@ -256,7 +256,7 @@
 
 <item>
 <title>[COLOR gray]TSN 1[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1031.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://sat.010e.net:8000/live/Loui@2468/Loui789321/657.ts</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
