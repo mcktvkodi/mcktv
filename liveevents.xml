@@ -213,7 +213,11 @@
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1OiLevi&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
-
+<item>
+<title>[COLOR gray]CTH STADIUM 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bit.ly/1QVt0Qg</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
 
 
 
