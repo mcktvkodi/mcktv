@@ -198,8 +198,19 @@
 </item>
 
 <item>
+<title>[COLOR gray]CTH STADIUM 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1QVt0Qg&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR gray]BEIN 6[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1q6YM6R&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR gray]BEIN 6[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1OiLevi&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
