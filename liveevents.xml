@@ -1,40 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
  
-<item>
-<title>[COLOR blue]NBC LIVE EXTRA - LIVE DURING EPL[/COLOR]</title>
-<link>http://ignore</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR gray]NBC LIVE EXTRA 1[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1331.ts&amp</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR gray]NBC LIVE EXTRA 2[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1332.ts&amp</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR gray]NBC LIVE EXTRA 3[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1333.ts&amp</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR gray]NBC LIVE EXTRA 4[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1334.ts&amp</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR gray]NBC LIVE EXTRA 5[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1335.ts&amp</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
  
  <item>
 <title>[COLOR blue]Doncaster Rovers v Burton Albion[/COLOR]</title>
