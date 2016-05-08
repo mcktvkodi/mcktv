@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
  
  
- <item>
+<!--  <item>
 <title>[COLOR blue]Doncaster Rovers v Burton Albion[/COLOR]</title>
 <link>http://ignore</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
@@ -93,7 +93,7 @@
 <title>[COLOR gray]CTH STADIUM 2[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1UG1Tzi&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
+</item> -->
 
  
 <item>
@@ -189,6 +189,75 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1Wi17ul&amp</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR blue]UFC Fight Night : Rotterdam[/COLOR]</title>
+<link>http://ignore</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]FS1[/COLOR]</title>
+<link>http://bit.ly/1ZtOnOB</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]FS1[/COLOR]</title>
+<link>http://bit.ly/1TO15WQ</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+<item>
+
+<item>
+<title>[COLOR gray]BT Sport 2[/COLOR]</title>
+<link>rtmp://185.63.255.18:80/live playpath=dodhs2j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=dodhs2j&vw=688&vh=387 token=%Zrey(nKa@#Z</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR gray]BT Sport 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1q7s5WM&amp</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BT Sport 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1T5CInG&amp</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BT Sport 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1O8DWiX&amp</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BT Sport 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1WT8zu5&amp</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BT Sport 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1Wh8txA&amp</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BT Sport 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1SWHYuY&amp</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+
+
+
+
+
 
 
 
