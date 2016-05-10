@@ -45,23 +45,11 @@
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1T3jjDF&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 <info></info>
-</item>
+</item> -->
 
 <item>
-<title>[COLOR blue]Tottenham Hotspur v Southampton[/COLOR]</title>
+<title>[COLOR blue]West Ham v Manchester Utd[/COLOR]</title>
 <link>http://ignore</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/21DJwfp&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/21DJwfp&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
@@ -78,6 +66,30 @@
 </item>
 
 <item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1OeXF0g&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/23F1Ap1&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]Astro Supersport 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1QUrpKs&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]CTH STADIUM 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1Xde9rY&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR gray]BEIN 11 EN[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1ZsXj6R&amp</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
@@ -85,15 +97,11 @@
 
 <item>
 <title>[COLOR gray]BEIN 11 EN[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/72.ts&amp;streamtype=TSDOWNLOADER</link>
+<f4m>http://bit.ly/1YjWZai</f4m>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR gray]CTH STADIUM 2[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1UG1Tzi&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item> -->
+
 
  
 <!-- <item>
@@ -190,7 +198,7 @@
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
  -->
-<item>
+<!-- <item>
 <title>[COLOR blue]UFC Fight Night : Rotterdam[/COLOR]</title>
 <link>http://ignore</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
@@ -257,7 +265,7 @@
 <title>[COLOR gray]BT Sport 2[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bit.ly/1O8OsGT&amp</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-</item>
+</item> -->
 
 
 
