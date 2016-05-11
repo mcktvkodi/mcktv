@@ -25,11 +25,31 @@
 </item> -->
 
 <item>
-<title>[COLOR gray]bein 13[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://37.187.24.177:80/mans35/mans35/711.ch&amp</link>
+<title>[COLOR gray]tsn 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/elvis/elvis/2432.ts&amp</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR gray]tsn 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/elvis/elvis/2431.ts&amp</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR gray]tsn 3[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/elvis/elvis/2430.ts&amp</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR gray]tsn 4[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/elvis/elvis/2429.ts&amp</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR gray]tsn 5[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/elvis/elvis/2428.ts&amp</link>
+<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
+</item>
 <!-- <item>
 <title>[COLOR gray]test[/COLOR]</title>
 <f4m>http://clientportal.link:8080/live/oYLBYDWJ9m/8jaIqKJaH9/10919.m3u8</f4m>
