@@ -30,6 +30,29 @@
 </item> -->
 
 <item>
+<title>sky sports f1</title>
+<link>$doregex[url]</link>
+<regex>
+    <name>url</name>
+    <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68718',False,False,'http://vipracing.info/')</expres>
+    <page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item> 
+<title>f1</title>
+<link>$doregex[getRTMP] swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.cast4u.tv/embedcr.php?live=skysf1&vw=700&vh=480</link>
+<regex>
+<name>getRTMP</name>
+<expres>(rtmp.*?)"</expres>
+<page>http://www.cast4u.tv/embedcr.php?live=skysf1&vw=700&vh=480</page>
+<referer>http://hdfree.tv/live/ssf1.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
+
+<item>
 <title>[COLOR gray]tsn 1[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://sat.010e.net:8000/live/Loui@2468/Loui789321/1764.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
