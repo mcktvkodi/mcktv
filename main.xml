@@ -2,31 +2,23 @@
 
 <channels>
 <channel>
-<name>Sports Channels</name>
+<name>Addon Needs Updating</name>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<externallink>http://bit.ly/1VKeBOF</externallink>
+<externallink>http://mcktv.co.uk/mcktvsports/sportschannels.xml</externallink>
 <fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/fanart.jpg</fanart>
 <info>MckTV</info>
 </channel>
 
 <channel>
-<name>Live Sports Events</name>
+<name>if you don't have the repo</name>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
 <thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<externallink>http://bit.ly/1SYXQMf</externallink>
+<externallink>http://mcktv.co.uk/mcktvsports/liveevents.xml</externallink>
 <fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/fanart.jpg</fanart>
 <info>MckTV</info>
 </channel>
 
-<channel>
-<name>Test Area</name>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<externallink>http://bit.ly/1roS9Oe</externallink>
-<fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/fanart.jpg</fanart>
-<info>MckTV</info>
-</channel>
 <channel>
 <name>[COLOR blue]follow me @MCKTV_Kodi[/COLOR]</name>
 <poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
@@ -43,20 +35,5 @@
 <fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/fanart.jpg</fanart>
 <info>MckTV</info>
 </channel>
-<channel>
-<name>[COLOR blue]please dont tweet about this[/COLOR]</name>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<externallink>http://ignoreme</externallink>
-<fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/fanart.jpg</fanart>
-<info>MckTV</info>
-</channel>
-<channel>
-<name>[COLOR blue]addon, trying to keep it quiet[/COLOR]</name>
-<poster>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/poster.png</poster>
-<thumbnail>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/icon.png</thumbnail>
-<externallink>http://ignoreme</externallink>
-<fanart>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/fanart.jpg</fanart>
-<info>MckTV</info>
-</channel>
+
 </channels>
