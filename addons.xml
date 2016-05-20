@@ -76,6 +76,20 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.uktvnow" name="UKTV Now" version="2.0.2" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="repository.mcktvrepo" name="mcktv repo" version="1.0" provider-name="mcktvkodi">
 	<extension point="xbmc.addon.repository" name="mcktvrepo">
 		<info compressed="false">https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/addons.xml</info>
