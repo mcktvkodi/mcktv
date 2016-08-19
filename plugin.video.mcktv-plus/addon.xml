@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.mcktv-plus" name="MckTV Sports Plus" version="3.0" provider-name="mcktv">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="init.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Premium Live Sports</summary>
+    <website>http://mcktv.co.uk/</website>
+    <description lang="en">Kodi Add-on for MckTV Sports Premium</description>
+    <forum>http://mcktv.co.uk</forum>
+    <email>lee.mcktv@gmail.com</email>
+    <disclaimer lang="en">Thanks goes out to MikkM</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
