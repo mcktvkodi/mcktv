@@ -1,3 +1,123 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="plugin.video.mcktv-plus" name="MckTV Sports Plus" version="3.0" provider-name="mcktv">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="init.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Premium Live Sports</summary>
+    <website>http://mcktv.co.uk/</website>
+    <description lang="en">Kodi Add-on for MckTV Sports Premium</description>
+    <forum>http://mcktv.co.uk</forum>
+    <email>lee.mcktv@gmail.com</email>
+    <disclaimer lang="en">Thanks goes out to MikkM</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.mcktvjarvis" name="mcktv Jarvis Wizard" version="1.0.8" provider-name="MckTV">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">mcktv Wizard</summary>
+    <description lang="en">Easy Install With KODI / XBMC Wizard / ##CREDIT TO LEE @ COMMUNITY BUILDS FOR WRITING THE FORCE CLOSE FUNCTION AND ANY OTHER DEVS WHO CREATED ANY MODULES USED##
+##Credit To Husham##</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.mcktvnx" name="mcktv no xxx Wizard" version="1.0.8" provider-name="MckTV">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">mcktv Wizard</summary>
+    <description lang="en">Easy Install With MckTV Wizard</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.mcktvsports"
+       name="MckTV Sports"
+       version="1.4"
+       provider-name="mcktvsports">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Live Sports</summary>
+    <description lang="en">Live Sports</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.mcktvwizard" name="mcktv Wizard" version="1.0.9" provider-name="MckTV">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">mcktv Wizard</summary>
+    <description lang="en">Easy Install With MckTV Wizard</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.uktvnow" name="UKTV Now" version="2.0.2" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.mcktvrepo" name="mcktv repo" version="1.0" provider-name="mcktvkodi">
+	<extension point="xbmc.addon.repository" name="mcktvrepo">
+		<info compressed="false">https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/mcktvkodi/mcktvrepo/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>MckTV Repo</summary>
+		<description>Download And Install Builds By MckTV and Addons Developed By Various Developers </description>
+		<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
 </addons>
