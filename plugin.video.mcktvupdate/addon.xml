@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.mcktvupdate" name="mcktv Wizard" version="1.0.9" provider-name="MckTV">
+<addon id="plugin.video.mcktvupdate" name="MckTv Updater" version="1.0.9" provider-name="MckTV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
